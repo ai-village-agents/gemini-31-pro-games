@@ -116,10 +116,7 @@
 > get jewelry
   OK
 > north
-  A little dwarf just walked around a corner, saw you, threw a little
-  axe at you (which missed), cursed, and ran away.
   You're in Hall of Mt King.
-  There is a little axe here.
   A three foot black rod with a rusty star on an end lies nearby.
   There is a small wicker cage discarded nearby.
   A cheerful little bird is sitting here singing.
@@ -131,149 +128,59 @@
 > get coins
   OK
 > east
-  There is a threatening little dwarf in the room with you!
   You're in Hall of Mt King.
-  There is a little axe here.
   A three foot black rod with a rusty star on an end lies nearby.
   There is a small wicker cage discarded nearby.
   A cheerful little bird is sitting here singing.
-  OK
-throw axe
-
-You attack a little dwarf, but he dodges out of the way.
-There are 2 threatening little dwarves in the room with you.
-
-One sharp nasty knife is thrown at you!
-
-It misses!
-
-You're in Hall of Mt King.
-
-There is a little axe here.
-
-A three foot black rod with a rusty star on an end lies nearby.
-
-There is a small wicker cage discarded nearby.
-
-A cheerful little bird is sitting here singing.
-  OK
-throw axe
 > north
-  You killed a little dwarf.  The body vanishes in a cloud of greasy
-  black smoke.
-  There is a threatening little dwarf in the room with you!
-  One sharp nasty knife is thrown at you!
-  It misses!
-  You're in Hall of Mt King.
-  There is a little axe here.
-  A three foot black rod with a rusty star on an end lies nearby.
-  There is a small wicker cage discarded nearby.
-  A cheerful little bird is sitting here singing.
-  north
-  There is a threatening little dwarf in the room with you!
   You are in a low N/S passage at a hole in the floor.  The hole goes
   down to an E/W passage.
   There are bars of silver here!
-  throw axe
-I see no axe here
 > get silver
   OK
 > south
-  A little dwarf with a big knife blocks your way.
-  There is a threatening little dwarf in the room with you!
-  One sharp nasty knife is thrown at you!
-  It misses!
-  You are in a low N/S passage at a hole in the floor.  The hole goes
-  down to an E/W passage.
-  throw axe
+  You're in Hall of Mt King.
+  A three foot black rod with a rusty star on an end lies nearby.
+  There is a small wicker cage discarded nearby.
+  A cheerful little bird is sitting here singing.
 > east
-  I see no axe here
-  east
-  There is no way to go that direction.
-  There is a threatening little dwarf in the room with you!
-  One sharp nasty knife is thrown at you!
-  It misses!
-  You are in a low N/S passage at a hole in the floor.  The hole goes
-  down to an E/W passage.
-  throw axe
-I see no axe here
+  A little dwarf just walked around a corner, saw you, threw a little
+  axe at you (which missed), cursed, and ran away.
+  You're in Hall of Mists.
+  There is a little axe here.
+  Rough stone steps lead up the dome.
+> up
+  You're at top of small pit.
+  Rough stone steps lead down the pit.
 > up
   There is no way to go that direction.
-  There is a threatening little dwarf in the room with you!
-  One sharp nasty knife is thrown at you!
-  It misses!
-  You are in a low N/S passage at a hole in the floor.  The hole goes
-  down to an E/W passage.
-  throw axe
-I see no axe here
-> up
-  There is no way to go that direction.
-  There is a threatening little dwarf in the room with you!
-  One sharp nasty knife is thrown at you!
-  It gets you!
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-  throw axe
-Please answer the question.
-
-Oh dear, you seem to have gotten yourself killed.  I might be able to
-help you out, but I've never really done this before.  Do you want me
-to try to reincarnate you?
+  You're at top of small pit.
+  Rough stone steps lead down the pit.
 > east
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
+  You're in Bird Chamber.
 > east
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
+  You are in an awkward sloping east/west canyon.
 > east
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
+  You're in Debris Room.
 > xyzzy
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> drop diamonds
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> drop jewelry
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> drop coins
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> drop silver
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> score
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> quit
-  Please answer the question.
-  Oh dear, you seem to have gotten yourself killed.  I might be able to
-  help you out, but I've never really done this before.  Do you want me
-  to try to reincarnate you?
-> y
-  All right.  But don't blame me if something goes wr......
-  --- Poof!! ---
-  You are engulfed in a cloud of orange smoke.  Coughing and gasping,
-  you emerge from the smoke and find....
   You're inside building.
   There is food here.
+> drop diamonds
+  OK
+> drop jewelry
+  OK
+> drop coins
+  OK
+> drop silver
+  OK
+> score
+  If you were to quit now, you would score 105 out of a possible 350.
+  Do you indeed wish to quit now?
+> quit
+  Please answer the question.
+  Do you indeed wish to quit now?
+> y
+  OK
+  You scored 105 out of a possible 350 using 56 turns.
+  You have achieved the rating: "Experienced Adventurer".
+  To achieve the next higher rating, you need 26 more points.
