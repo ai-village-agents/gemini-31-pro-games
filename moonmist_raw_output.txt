@@ -1,0 +1,631 @@
+Using normal formatting.
+Loading /home/computeruse/MOONMIST.z3.
+
+
+Moonmist
+Infocom interactive fiction - a mystery story
+Copyright (c) 1986 by Infocom, Inc. All rights reserved.
+Moonmist is a trademark of Infocom, Inc.
+Release number 9 / Serial number 861022
+
+You drove west from London all day in your new little British sports car. Now at
+last you've arrived in the storied land of Cornwall.
+
+Dusk has fallen as you pull up in front of Tresyllian Castle. A ghostly full
+moon is rising, and a tall iron gate between two pillars bars the way into the
+courtyard.
+
+What would you like to do?
+>
+
+In the moonlit gloom, you can make out an ornament on the gate. It's a winged,
+two-legged dragon called a wyvern, which crests the Tresyllian family's coat of
+arms.
+The dragon appears in profile. The moonlight glints on its lone visible eye.
+
+What next?
+>The dragon's eye glows red. A voice comes from a hidden speaker. It says:
+"Please announce yourself. State your title -- such as Lord or Lady, Sir or
+Dame, Mr. or Ms. -- and your first and last name."
+>"Did you say your name is Sir Erik Hansen?"
+>"And what is your favorite color, Sir Erik?"
+>"Did you say your favorite color is green?"
+>
+
+"Jolly good! The spare bedroom is decorated in green! Please enter."
+The red eye turns green, and the front gate creaks open.
+
+What next?
+>
+
+Your headlights bravely pierce the gloom as you enter the courtyard. You get out
+of your car.
+The front gate closes and locks behind you.
+(You are now in the courtyard.)
+As flood lights blaze on, you look around. It looks even lovelier than it sounds
+in the tourist brochure.
+The dark stone turrets rise toward the misty sky.
+Your new little green sports car is parked here.
+
+Someone comes running out of the wing to greet you. She's a beautiful red-haired
+young woman of average height. You recognize her as your friend, Tamara Lynd.
+"Erik!" she cries with outflung arms. "You sweet thing, to answer my letter in
+person this way! And all the people I wrote about are here tonight for Lionel's
+memorial birthday dinner!"
+After a warm hug, she asks anxiously, "You did read my letter, and not just give
+it a hasty glance?"
+
+>
+
+"Then you know about my engagement, and the White Lady, and the fact that...
+that someone is trying to kill me!"
+
+[You won't see "What next?" any more.]
+
+>
+
+Tamara guides you into the foyer.
+
+As you enter the foyer, you're overwhelmed by the English past. Those barbarous
+times when Jack's ancestors had to shut themselves up in a fortified castle have
+softened into gracious country living. Yet Tamara is clearly anxious.
+(You are in the foyer.)
+"Here comes Jack now!" exclaims Tamara, as he comes striding toward you. He's a
+tall, handsome, dark-browed young man in dinner jacket and black tie.
+
+"My fiance, Lord Jack Tresyllian," Tamara introduces him. "Jack, this is my
+friend from the States, Sir Erik Hansen."
+"So you're that famous young sleuth whom the Yanks call Sir Sherlock!" says Lord
+Jack, shaking hands. "Tammy's told me about the mysteries you've solved!"
+His keen blue eyes size you up with a friendly twinkle. Yet his friendliness
+seems to be all on the surface -- it may take time to figure out where His
+Lordship's really coming from.
+
+>
+
+He nods at you.
+
+"We can talk more later, Erik," says Tamara, taking your arm, "but let's go in
+now, so you can meet the other guests."
+"Yes, do come in. Bolitho will see to the car and bring your luggage," says Lord
+Jack as an elderly butler appears.
+
+>
+
+Tamara guides you into the drawing room.
+
+(You are now in the drawing room.)
+It looks even lovelier than it sounds in the tourist brochure.
+A tall graceful older couple in evening clothes are chatting and sipping sherry.
+Lord Jack introduces them as Montague Hyde and Vivien Pentreath.
+Hyde smiles and bows stiffly. And Vivien murmurs in an attractively low voice,
+"How do you do, Sir Erik."
+"Believe it or not, this young man is a famous American detective," Lord Jack
+tells them.
+"Not a police detective, of course," Tamara adds as they both stiffen, "but a
+solver of all sorts of mysteries in the States. We're hoping to find out who or
+what is haunting Tresyllian Castle."
+
+>Tamara guides you into the new great hall.
+
+(You are now in the new great hall.)
+It looks even lovelier than it sounds in the tourist brochure.
+The hall is floored with black and white marble tiles. They've been worn smooth
+by footsteps over the centuries, especially near the archway to the drawing
+room.
+A young couple are dancing to the faint sound of rock music from a portable
+radio on a table nearby.
+The girl is a stylish London deb type. Her dark hair is cut boyishly short. Her
+height and figure would make her a perfect high-fashion model.
+He's a tall blond, sporting a white dinner jacket and scarlet cummerbund. He
+moves with the elegant swagger of a Guards officer and young-man-about-Mayfair,
+both of which he is.
+
+They stop dancing, turn off the radio, and greet you. Tamara introduces them as
+the Honourable Iris Vane and Lt. Ian Fordyce of Her Majesty's Coldstream Guards.
+"My dear! What a handsome addition to your guest list!" chirps Iris. Her green
+eyes sparkle flirtatiously as she offers you her delicate hand. "Tell me, Sir
+Erik -- Are you one of those brutally fascinating American private eyes?"
+***MORE***
+
+>
+
+"Splendid!"
+
+"Do excuse me for interrupting," Tamara breaks in, "but here comes Dr. Wendish!
+I'm sure Erik wants to meet such a distinguished scientist!"
+A man is coming downstairs. He's a middle-sized man in his fifties, with
+spectacles and a grizzled mustache.
+Tamara introduces him as one of Lionel's oldest friends, Dr. Nicholas Wendish.
+He's carelessly dressed in rumpled evening clothes, but his hawk eyes peering at
+you through gold-rimmed specs show ruthless intelligence.
+"I read about one of your mystery cases when I was in New York last year, Sir
+Erik," he probes. "Is it a case that brings you to Cornwall?"
+
+>
+
+"I see..."
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+"You two will have time to chat later," says Tamara, "but you must excuse us
+now, Dr. Wendish, while I show Erik up to his bedroom. I'm sure he wants to
+freshen up for dinner!"
+Tamara guides you up to the gallery.
+
+She says, "I know it's confusing, but the British call this the 'first' floor.
+We just left the 'ground' floor."
+(You are now in the gallery.)
+The gallery spans the top of the double stairways. You can go east to your
+bedroom or west to Vivien's bedroom. Hallways lead to the northeast and
+northwest. On the wall is a series of oil paintings of Lord Jack's ancestors.
+
+>
+
+Tamara guides you into your bedroom.
+
+She says, "You'll be sleeping in the same room that Queen Victoria slept in!"
+(You are now in your bedroom.)
+Your room is decorated in shades of green. You see your bathroom to the north
+and a cozy fireplace in one corner. The room is furnished with a bed, a night
+table with a lamp on it, a chest of drawers, a wardrobe, a wing chair, and a
+dressing table with mirror and bench. There's also a full-length wall mirror.
+She says, "Let's chat a bit, now that we're alone."
+
+>
+
+"Since I wrote you, I've seen the ghost again, and this third time was the
+worst. After working late one night, I was preparing to leave the office to go
+to my room. As I opened the door to the first-floor corridor, I saw this ghostly
+figure with long blonde hair and a dead white face. It was holding a sword and
+about to attack me!"
+Tamara gulps and her voice quavers as she concludes, "I s-s-screamed and shrank
+back inside the office and slammed the door! That's about all I can tell you,
+Erik..."
+Tamara fidgets nervously. "I don't know whether this ghost is real, or someone
+just play-acting. It can sneak around anywhere it pleases in the whole castle. I
+just don't understand how a person dressed up like a spook can do that without
+being caught!"
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Tamara turns to leave, saying, "Here's Bolitho, so I'll leave you to rest or
+freshen up, Erik. Dinner's at eight, by the way -- or whenever you hear the
+gong."
+The butler enters with your luggage and lays it on the bed.
+"I regret to say, Sir Erik, that the maid will be unable to unpack for you, due
+to the arrangements for the late Lord Lionel's memorial birthday dinner," he
+apologizes. "Do you wish me to do so before I leave?"
+
+>
+
+Bolitho responds politely, like the well-trained butler he is. But he seems to
+have something important on his mind.
+Tamara leaves.
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Bolitho coughs diffidently and asks, "Sir Erik? Am I right in assuming that you
+are the well-known young American detective?"
+
+>"Then no doubt you are here to investigate the spectral figure which has
+recently been seen about the castle. I myself glimpsed the ghost just last
+night. Lord Jack and some guests were sitting up late, lounging and chatting in
+the new great hall. After they retired, I came upstairs to clean up and turn off
+the lights. As I entered the new great hall from the west, I saw the ghost on
+the far side of the room. You've seen that room, have you not?"
+
+>
+
+"If I may express an opinion, our ghost must need reading glasses. The hall was
+ablaze with lights, yet it was bending down, groping blindly for something on
+the marble floor. And, I might add, it must also be left-handed. You see, Sir
+Erik, while bending over, the figure was using its left hand to grope with. I
+tried it myself, as did other servants, and we agree that such behavior
+indicates left-handedness."
+He continues, "The ghost must have heard my footsteps, for it stood up, flashed
+me a startled glance, and fled into the darkness of the drawing room. I pursued,
+turning on the lights, but the thing had disappeared. I went into the foyer, but
+it was not there either, and the front door was still locked -- from the
+inside."
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+"May I offer one last suggestion?" adds Bolitho.
+
+>
+
+"Should you find yourself in any danger from our ghost, perhaps you could use
+this."
+Bolitho gives you a small aerosol device.
+
+"Ah, by the way, Sir Erik -- should you wish to view yourself from all angles
+while dressing, you can do so by adjusting the wall mirror and the hinged side
+mirror of the dressing table."
+Without explaining further, Bolitho abruptly leaves the room.
+
+>
+
+It says, "JUST PRESS THE BUTTON."
+
+>
+
+Okay, it is now on the wing chair.
+
+>
+
+(You are now in your bathroom.)
+From the look of it, your bathroom was added in recently. It is comfortable and
+inviting, especially for Cornwall.
+
+>
+
+Okay... My, what a fine figure of a man!
+
+>
+
+First you drop everything... You're now squeaky clean. After toweling off, you
+feel nicely relaxed and ready to tackle the mystery of Tresyllian Castle.
+
+>
+
+(You are in your bedroom.)
+
+>
+
+Ahhh! Nothing like a new outfit to change your whole outlook!
+
+>
+
+(You open the chest of drawers first.)
+You can see a tourist brochure, a nightshirt and an exercise outfit inside the
+chest of drawers.
+
+>
+
+You go quickly toward the dining room.
+But in the new great hall Tamara says hello.
+(You are in the new great hall.)
+Dr. Wendish is looking muddled.
+Tamara is waiting patiently.
+Lord Jack and Ian and Iris are lounging and chatting.
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Tamara says, "It's time for dinner now. Let's go to the dining room."
+She walks west.
+Do you want to keep waiting?
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>>
+
+(You open the door and close it again.)
+(You are in the foyer.)
+
+>(You can't go in that direction.)
+
+>
+
+(You open the door and close it again.)
+(You are in the new great hall.)
+Dr. Wendish is looking muddled.
+Ian and Iris are lounging and chatting.
+Vivien opens the door for a moment and walks past you from the drawing room.
+
+>(You can't see any fourth clue right here!)
+
+>[Please be specific: what do you want to x?]
+
+>
+
+(You open the door and close it again.)
+(You are in the foyer.)
+
+>
+
+(You are in the drawing room.)
+Hyde is sipping sherry.
+
+>(You can't go in that direction.)
+
+>(You can't go in that direction.)
+
+>
+
+(You open the door and close it again.)
+(You are in the new great hall.)
+Iris is lounging and chatting.
+Hyde opens the door for a moment and follows you.
+
+>
+
+You go quickly toward the office.
+(You are now in the office.)
+This small office gets little light and less air. In one corner is a computer.
+By the fireplace, there is a tall old-fashioned desk with a journal and an
+inkwell, and a tall stool.
+
+>
+
+You are now holding the inkwell.
+
+>
+
+Inside the inkwell is Moonmist.
+
+(Congratulations, Sir Erik! You've found the hidden treasure!)
+Suddenly, the dinner bell sounds.
+
+>
+
+The object that you mentioned isn't here.
+
+>
+
+You are now holding the journal.
+
+>
+
+This is a journal of Lionel's Amazon expedition. As you leaf through it, you
+find a description of a treasure: Moonmist, a drug taken from a rare Amazon
+plant called the Moonflower. The natives use it to tip their poison darts, but
+it could also be a valuable medicine. They insist that the plant should be
+gathered only when the full moon is misted over.
+
+>
+
+Okay, it is now on the old-fashioned desk.
+
+>
+
+You go quickly toward the sitting room.
+(You are now in the sitting room.)
+It looks even lovelier than it sounds in the tourist brochure.
+It's a comfy place to read a book, play the piano, or just relax.
+
+>
+
+You can see a maid's note on the writing desk.
+
+>
+
+You are now holding the maid's note.
+
+>
+
+It says, "Today while cleaning the room of a certain person who shall be
+nameless, I was SHOCKED to discover SUMMING DREDFUL!
+I hope I knows me place, Your Lordship, but I was brought up to be a PERFECKLY
+RESPECTABLE young woman, and I cannot go on working under the same roof where
+such WICKEDNESS takes place.
+I am not the type of girl given to idle gossip, so I will only say this. Maybe
+there is more reason than ANYONE SUSPECKS why that so-called ghost prowls about
+the castle at night, if you know what I mean.
+Me Dad always says that the first sign of a nut case is when a person starts
+talking to hisself. Well, if you was to ask me, there is more than one way to
+talk to yourself. Some does it on paper, and that is the type person to watch
+out for!"
+
+>
+
+Okay, it is now on the piano.
+
+>[I don't know the word "got."]
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+You don't find anything new there.
+
+>(You can't see any lens right here!)
+
+>
+
+You go quickly toward Wendish's bedroom.
+You enter the room cautiously after a preliminary peek. No one is there.
+(You are now in Wendish's bedroom.)
+The room shows the doctor's precise, scientific personality. Everything is in
+its place. Several medical texts are lying on the dressing table.
+His medical kit is on a marble-topped console attached to the wall. On the north
+wall is an ornate candle sconce.
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+Underneath some items in the medical kit is a small plastic box, so you stop
+searching.
+
+>
+
+You are now holding the small plastic box.
+
+>
+
+You lift the hinged cover. Inside is a bed of moist foam rubber, holding a
+contact lens. It's obvious that the box will hold two lenses.
+
+>
+
+Underneath some items in the medical kit are a shimmering white gown and blonde
+wig.
+
+(Congratulations, Sir Erik! You've identified the ghost!)
+You stop searching.
+
+>
+
+It's obvious that the wig was designed to resemble Deirdre's long, flowing hair.
+Inside, you notice several individual grayish hairs, the same color as Dr.
+Wendish's hair.
+
+(Congratulations, Sir Erik! You've identified the ghost!)
+
+>
+
+You go quickly toward the library.
+(You are now in the library.)
+Dusty bookcases tower all around you. There is a table with reading lamp and
+chair, and an armchair near the fireplace.
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+In the bookcase is a lab notebook, so you stop searching.
+
+>
+
+You are now holding the lab notebook.
+
+>
+
+The lab notebook contains an incriminating record of Dr. Wendish's fiendish
+experiments on patients at his clinic. Near the end you read:
+"Finally took care of Poldark's granddau. (comely wench), pity she disc'd facts
+of his end."
+
+(Congratulations, Sir Erik! You've found evidence of the crime!)
+
+>
+
+You go quickly toward Wendish's bedroom.
+You enter the room cautiously after a preliminary peek. No one is there.
+(You are in Wendish's bedroom.)
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+Underneath some items in the medical kit is a blowgun, so you stop searching.
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+You don't find anything new there.
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+You don't find anything new there.
+
+>Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+>
+
+You don't find anything new there.
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+You freeze as the door bursts open and Dr. Wendish appears. He stares at you
+with a shocked look. "Well! I didn't expect MY room to be searched!" he says
+angrily. He enters the room and closes the door behind him.
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+>
+
+You go quickly toward the sitting room.
+(You are in the sitting room.)
+Tamara and Lord Jack and Vivien and Ian and Hyde and Iris are deep in thought.
+
+>
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Dr. Wendish enters and nods to you.
+Do you want to keep waiting?
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>[Please type YES or NO.]
+>
+
+>
+
+It comes off, leaving Dr. Wendish blinking with embarrassment. He grabs it and
+puts it in place again. "Dear me," he giggles nervously, "I'm afraid you've
+found out my little secret! A lady friend, you see, begged me to shave off my
+mustache. I did so just before coming to Cornwall. But then I felt so naked
+without it, that I bought a hair piece until I could grow back my own."
+
+>At first he denies everything, but when you tell about the lab notebook, he
+rushes at you! Suddenly Bolitho appears and grabs him from behind, saying, "I'll
+guard this villain for you." Then Dr. Wendish glares at you and confesses to
+murder.
+
+(Congratulations, Sir Erik! Would you like to read the authors' version of the
+crime?)
+>Deirdre strongly suspected that her grandfather died because of Dr. Wendish's
+fiendish experiments on his patients. So she wrote a letter to Lionel, begging
+him to use his influence to investigate Dr. Wendish, which he did. However, Dr.
+Wendish found out what they were up to, and silenced both of them.
+He has masqueraded as a ghost to cover his midnight searches for the hidden
+treasure. He intended the attacks on Tamara to create the belief that Deirdre
+might still be alive.
+
+[Congratulations, Sir Erik! You've won the game!]
+
+Would you like to:
+   RESTORE your place from where you saved it,
+   RESTART the story from the beginning, or
+   QUIT for now?
+>
