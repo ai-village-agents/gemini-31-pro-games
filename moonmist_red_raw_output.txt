@@ -1,0 +1,824 @@
+x gate
+
+
+In the moonlit gloom, you can make out an ornament on the gate. It's a winged,
+two-legged dragon called a wyvern, which crests the Tresyllian family's coat of
+arms.
+The dragon appears in profile. The moonlight glints on its lone visible eye.
+
+What next?
+press dragon
+The dragon's eye glows red. A voice comes from a hidden speaker. It says:
+"Please announce yourself. State your title -- such as Lord or Lady, Sir or
+Dame, Mr. or Ms. -- and your first and last name."
+Sir Erik Hansen
+"Did you say your name is Sir Erik Hansen?"
+yes
+"And what is your favorite color, Sir Erik?"
+red
+"Did you say your favorite color is red?"
+yes
+
+
+"Jolly good! The spare bedroom is decorated in red! Please enter."
+The red eye turns green, and the front gate creaks open.
+
+What next?
+enter
+
+
+Your headlights bravely pierce the gloom as you enter the courtyard. You get out
+of your car.
+The front gate closes and locks behind you.
+(You are now in the courtyard.)
+As flood lights blaze on, you look around. It looks even lovelier than it sounds
+in the tourist brochure.
+The dark stone turrets rise toward the misty sky.
+Your new little red sports car is parked here.
+
+Someone comes running out of the wing to greet you. She's a beautiful red-haired
+young woman of average height. You recognize her as your friend, Tamara Lynd.
+"Erik!" she cries with outflung arms. "You sweet thing, to answer my letter in
+person this way! And all the people I wrote about are here tonight for Lionel's
+memorial birthday dinner!"
+After a warm hug, she asks anxiously, "You did read my letter, and not just give
+it a hasty glance?"
+
+yes
+
+
+"Then you know about my engagement, and the White Lady, and the fact that...
+that someone is trying to kill me!"
+
+[You won't see "What next?" any more.]
+
+follow Tamara
+
+
+Tamara guides you into the foyer.
+
+As you enter the foyer, you're overwhelmed by the English past. Those barbarous
+times when Jack's ancestors had to shut themselves up in a fortified castle have
+softened into gracious country living. Yet Tamara is clearly anxious.
+(You are in the foyer.)
+"Here comes Jack now!" exclaims Tamara, as he comes striding toward you. He's a
+tall, handsome, dark-browed young man in dinner jacket and black tie.
+
+"My fiance, Lord Jack Tresyllian," Tamara introduces him. "Jack, this is my
+friend from the States, Sir Erik Hansen."
+"So you're that famous young sleuth whom the Yanks call Sir Sherlock!" says Lord
+Jack, shaking hands. "Tammy's told me about the mysteries you've solved!"
+His keen blue eyes size you up with a friendly twinkle. Yet his friendliness
+seems to be all on the surface -- it may take time to figure out where His
+Lordship's really coming from.
+
+curtsey to Jack
+
+
+He bows back to you.
+
+"We can talk more later, Erik," says Tamara, taking your arm, "but let's go in
+now, so you can meet the other guests."
+"Yes, do come in. Bolitho will see to the car and bring your luggage," says Lord
+Jack as an elderly butler appears.
+
+follow Tamara
+
+
+Tamara guides you into the drawing room.
+
+(You are now in the drawing room.)
+It looks even lovelier than it sounds in the tourist brochure.
+A tall graceful older couple in evening clothes are chatting and sipping sherry.
+Lord Jack introduces them as Montague Hyde and Vivien Pentreath.
+Hyde smiles and bows stiffly. And Vivien murmurs in an attractively low voice,
+"How do you do, Sir Erik."
+"Believe it or not, this young man is a famous American detective," Lord Jack
+tells them.
+"Not a police detective, of course," Tamara adds as they both stiffen, "but a
+solver of all sorts of mysteries in the States. We're hoping to find out who or
+what is haunting Tresyllian Castle."
+
+g
+Tamara guides you into the new great hall.
+
+(You are now in the new great hall.)
+It looks even lovelier than it sounds in the tourist brochure.
+The hall is floored with black and white marble tiles. They've been worn smooth
+by footsteps over the centuries, especially near the archway to the drawing
+room.
+A young couple are dancing to the faint sound of rock music from a portable
+radio on a table nearby.
+The girl is a stylish London deb type. Her dark hair is cut boyishly short. Her
+height and figure would make her a perfect high-fashion model.
+He's a tall blond, sporting a white dinner jacket and scarlet cummerbund. He
+moves with the elegant swagger of a Guards officer and young-man-about-Mayfair,
+both of which he is.
+
+They stop dancing, turn off the radio, and greet you. Tamara introduces them as
+the Honourable Iris Vane and Lt. Ian Fordyce of Her Majesty's Coldstream Guards.
+"My dear! What a handsome addition to your guest list!" chirps Iris. Her green
+eyes sparkle flirtatiously as she offers you her delicate hand. "Tell me, Sir
+Erik -- Are you one of those brutally fascinating American private eyes?"
+
+
+
+x Iris
+
+
+The girl is a stylish London deb type. Her dark hair is cut boyishly short. Her
+height and figure would make her a perfect high-fashion model.
+Iris repeats, "I said: Are you one of those brutally fascinating American
+private eyes?"
+
+yes
+
+
+"Splendid!"
+
+"Do excuse me for interrupting," Tamara breaks in, "but here comes Dr. Wendish!
+I'm sure Erik wants to meet such a distinguished scientist!"
+A man is coming downstairs. He's a middle-sized man in his fifties, with
+spectacles and a grizzled mustache.
+Tamara introduces him as one of Lionel's oldest friends, Dr. Nicholas Wendish.
+He's carelessly dressed in rumpled evening clothes, but his hawk eyes peering at
+you through gold-rimmed specs show ruthless intelligence.
+"I read about one of your mystery cases when I was in New York last year, Sir
+Erik," he probes. "Is it a case that brings you to Cornwall?"
+
+Wendish, yes
+
+
+"I see..."
+
+"You two will have time to chat later," says Tamara, "but you must excuse us
+now, Dr. Wendish, while I show Erik up to his bedroom. I'm sure he wants to
+freshen up for dinner!"
+Tamara guides you up to the gallery.
+
+She says, "I know it's confusing, but the British call this the 'first' floor.
+We just left the 'ground' floor."
+(You are now in the gallery.)
+The gallery spans the top of the double stairways. You can go east to your
+bedroom or west to Vivien's bedroom. Hallways lead to the northeast and
+northwest. On the wall is a series of oil paintings of Lord Jack's ancestors.
+
+follow Tamara
+
+
+Tamara guides you into your bedroom.
+
+She says, "You'll be sleeping in the same room that Queen Victoria slept in!"
+(You are now in your bedroom.)
+Your room is decorated in shades of red. You see your bathroom to the north and
+a cozy fireplace in one corner. The room is furnished with a bed, a night table
+with a lamp on it, a chest of drawers, a wardrobe, a wing chair, and a dressing
+table with mirror and bench. There's also a full-length wall mirror.
+She says, "Let's chat a bit, now that we're alone."
+
+Tamara, tell me about ghost
+
+
+"Since I wrote you, I've seen the ghost again, and this third time was the
+worst. After working late one night, I was preparing to leave the office to go
+to my room. As I opened the door to the first-floor corridor, I saw this ghostly
+figure with long blonde hair and a dead white face. It was holding a sword and
+about to attack me!"
+Tamara gulps and her voice quavers as she concludes, "I s-s-screamed and shrank
+back inside the office and slammed the door! That's about all I can tell you,
+Erik..."
+Tamara fidgets nervously. "I don't know whether this ghost is real, or someone
+just play-acting. It can sneak around anywhere it pleases in the whole castle. I
+just don't understand how a person dressed up like a spook can do that without
+being caught!"
+
+z
+
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Tamara turns to leave, saying, "Here's Bolitho, so I'll leave you to rest or
+freshen up, Erik. Dinner's at eight, by the way -- or whenever you hear the
+gong."
+The butler enters with your luggage and lays it on the bed.
+"I regret to say, Sir Erik, that the maid will be unable to unpack for you, due
+to the arrangements for the late Lord Lionel's memorial birthday dinner," he
+apologizes. "Do you wish me to do so before I leave?"
+
+yes
+
+
+Bolitho responds politely, like the well-trained butler he is. But he seems to
+have something important on his mind.
+Tamara leaves.
+
+z
+
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+Bolitho coughs diffidently and asks, "Sir Erik? Am I right in assuming that you
+are the well-known young American detective?"
+
+yes
+"Then no doubt you are here to investigate the spectral figure which has
+recently been seen about the castle. I myself glimpsed the ghost just last
+night. Lord Jack and some guests were sitting up late, lounging and chatting in
+the new great hall. After they retired, I came upstairs to clean up and turn off
+the lights. As I entered the new great hall from the west, I saw the ghost on
+the far side of the room. You've seen that room, have you not?"
+
+yes
+
+
+"To be precise, the ghost was just beyond the archway. It was bending over,
+groping for something on the drawing room carpet."
+He continues, "The ghost must have heard my footsteps, for it stood up, flashed
+me a startled glance, and fled into the darkness of the drawing room. I pursued,
+turning on the lights, but the thing had disappeared. I went into the foyer, but
+it was not there either, and the front door was still locked -- from the
+inside."
+
+z
+
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+"May I offer one last suggestion?" adds Bolitho.
+
+yes
+
+
+"Should you find yourself in any danger from our ghost, perhaps you could use
+this."
+Bolitho gives you a small aerosol device.
+
+"Ah, by the way, Sir Erik -- should you wish to view yourself from all angles
+while dressing, you can do so by adjusting the wall mirror and the hinged side
+mirror of the dressing table."
+Without explaining further, Bolitho abruptly leaves the room.
+
+x device
+
+
+It says, "JUST PRESS THE BUTTON."
+
+drop it
+
+
+Okay, it is now on the wing chair.
+
+n
+
+
+(You are now in your bathroom.)
+From the look of it, your bathroom was added in recently. It is comfortable and
+inviting, especially for Cornwall.
+
+remove clothes
+
+
+Okay... My, what a fine figure of a man!
+
+take bath
+
+
+First you drop everything... You're now squeaky clean. After toweling off, you
+feel nicely relaxed and ready to tackle the mystery of Tresyllian Castle.
+
+s
+
+
+(You are in your bedroom.)
+
+dress for dinner
+
+
+Ahhh! Nothing like a new outfit to change your whole outlook!
+
+look in drawer
+
+
+(You open the chest of drawers first.)
+You can see a tourist brochure, a nightshirt and an exercise outfit inside the
+chest of drawers.
+
+go to dining room
+
+
+You go quickly toward the dining room.
+But in the new great hall Tamara says hello.
+(You are in the new great hall.)
+Dr. Wendish is looking muddled.
+Tamara is waiting patiently.
+Lord Jack and Ian and Iris are lounging and chatting.
+
+wait until 7:54
+
+
+Time passes...
+Tamara says, "It's time for dinner now. Let's go to the dining room."
+She walks west.
+
+yes
+
+
+Lord Jack walks west.
+
+take butler's note
+[Please type YES or NO.]
+yes
+
+
+Vivien opens the door for a moment and walks past you from the drawing room.
+
+read it
+[Please type YES or NO.]
+yes
+
+
+She walks west.
+Dr. Wendish walks west.
+
+yes
+
+
+Ian walks west.
+
+drop it
+(You are not holding it.)
+
+yes
+(You aren't talking to anyone!)
+
+yes
+(You aren't talking to anyone!)
+
+wait until 8:00
+
+
+Time passes...
+Hyde opens the door for a moment and walks past you from the drawing room.
+
+eat dinner
+[Please type YES or NO.]
+z
+[Please type YES or NO.]
+look under bust
+[Please type YES or NO.]
+z
+[Please type YES or NO.]
+yes
+
+
+He walks west.
+Iris walks west.
+
+z
+[Please type YES or NO.]
+yes
+
+
+Suddenly, the dinner bell sounds.
+
+yes
+
+
+yes
+(You aren't talking to anyone!)
+
+yes
+(You aren't talking to anyone!)
+
+yes
+(You aren't talking to anyone!)
+
+z
+
+
+[I assume you mean: Wait 10 minutes.]
+Time passes...
+
+yes
+(You aren't talking to anyone!)
+
+yes
+(You aren't talking to anyone!)
+
+look under punchbowl
+(You can't see any punchbowl right here!)
+
+x it
+[I assume you mean: a number.]
+(The number isn't close enough.)
+
+Vivien, give clue to me
+(Vivien isn't here!)
+
+x it
+[I assume you mean: the number.]
+(The number isn't close enough.)
+
+go to chapel
+
+
+You go quickly toward the chapel.
+(You are now in the chapel.)
+A bare and austere yet poignantly atmospheric relic of the medieval past, the
+chapel contains an altar, pulpit, font, and family pews of elaborately carved
+oak. The most memorable feature is a splendid stained-glass window. It portrays,
+in vividly glowing colors, Eve tempting Adam with the forbidden apple in the
+Garden of Eden.
+
+search window
+
+
+Stuck on the apple of the stained-glass window is a third clue, so you stop
+searching.
+
+get third clue
+
+
+You are now holding the third clue.
+
+x it
+
+
+It says,
+"Despite its appearance, the fruit was quite sour.
+One bite of the apple drove Eve from her bower."
+
+go to courtyard
+
+
+You go quickly toward the courtyard.
+(You are in the courtyard.)
+Your new little red sports car is parked here.
+
+e
+
+
+(You are now in the hedge maze.)
+Tall dark hedges surround you like walls, with walkways in all directions.
+
+e
+
+
+You stumble blindly through the maze and suddenly emerge in the garden.
+(You are now in the garden.)
+Here in the central garden the plants quake nervously in the mist. In the very
+middle is a goldfish pond.
+
+dig ground
+Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+yes
+
+
+Buried in the dirt is a fourth clue, so you stop searching.
+
+get fourth clue
+
+
+You are now holding the fourth clue.
+
+x it
+
+
+It says,
+"Out of the sunshine, into the rain...
+The end of the story is... Abel and CAIN."
+The last word is underlined.
+
+drop all clues
+
+
+fourth clue: Okay, it is now on the ground.
+third clue: Okay, it is now on the ground.
+
+w
+
+
+(You are in the hedge maze.)
+
+w
+
+
+You stumble blindly through the maze and suddenly emerge in the courtyard.
+(You are in the courtyard.)
+Your new little red sports car is parked here.
+
+s
+
+
+(You open the door and close it again.)
+(You are in the foyer.)
+
+look in stand
+
+
+Among the umbrellas there's a cane that looks odd.
+
+get cane
+
+
+You are now holding the cane.
+
+x it
+
+
+There's something strange about this cane. It's shaped like a baseball bat, but
+with hard, faceted bumps all over it. It has a new coat of paint.
+
+remove paint
+
+
+Under the coat of paint is a war club.
+
+(Congratulations, Sir Erik! You've found the hidden treasure!)
+
+go to sitting room
+
+
+You go quickly toward the sitting room.
+(You are now in the sitting room.)
+It looks even lovelier than it sounds in the tourist brochure.
+It's a comfy place to read a book, play the piano, or just relax.
+
+give club to Tamara
+(You can't see Tamara right here!)
+
+get maid's note
+
+
+You are now holding the maid's note.
+
+x it
+
+
+It says, "Today while cleaning the room of a certain person who shall be
+nameless, I was SHOCKED to discover SUMMING DREDFUL!
+I hope I knows me place, Your Lordship, but I was brought up to be a PERFECKLY
+RESPECTABLE young woman, and I cannot go on working under the same roof where
+such WICKEDNESS takes place.
+I am not the type of girl given to idle gossip, so I will only say this. Maybe
+there is more reason than ANYONE SUSPECKS why that so-called ghost prowls about
+the castle at night, if you know what I mean.
+I am not the type who peeks through keyholes, either, but maybe it is high time
+someone did!"
+
+drop it
+
+
+Okay, it is now on the piano.
+
+go to kitchen
+You go quickly toward the kitchen.
+But in the dining room Iris gets in your way.
+This room is impeccably furnished, but it's too formal for relaxing.
+Tamara says, "We didn't know when you would come to dinner, so we started
+without you. And now Lionel is speaking on tape!"
+(You are in the dining room.)
+Lord Jack and all his guests are here.
+A brooding bust of Lionel Tresyllian (sculpted by Vivien) is displayed in a
+corner.
+
+You see the sideboard and the dining table here.
+On the sideboard you see your dinner and a punchbowl.
+Several people glance at your outfit with approval.
+
+Lionel's voice finishes, "So now, my friends, let the game begin!"
+Lord Jack says, "Well, I for one want to see that first clue." He lifts the
+punchbowl and takes it.
+
+get lantern
+(You can't see any lantern right here!)
+
+go to ground-floor corridor
+
+
+(You stand up first.)
+(You are now in the ground-floor corridor.)
+The ground-floor corridor goes between the two great halls to east and west.
+Behind sliding doors, the dining room is north and the sitting room is south.
+
+go to my room
+
+
+You go quickly toward your bedroom.
+(You are in your bedroom.)
+
+turn on lantern
+(You can't see any lantern right here!)
+
+x wall mirror
+
+
+By running your fingers around the frame, you discover a hidden switch.
+
+pull switch
+
+
+As you pull the hidden switch, a section of the wall creaks open, revealing a
+secret passage!
+
+e
+
+
+You step down into a narrow secret passage.
+(You are now in your entrance.)
+Light comes from your bedroom.
+This is a musty and cobwebby secret passage between the wall of your bedroom and
+the outside wall of the castle.
+The secret passage leads north and south. An open secret door and a lever are on
+the west wall.
+A narrow stairway snakes down into darkness.
+
+n
+
+
+(You are now in Iris's entrance.)
+(It's too dark to see!)
+
+wait until 12:41
+
+
+Time passes...
+
+talk to ghost
+(The ghost isn't here!)
+
+s
+
+
+You hear footsteps behind you, but no one is there.
+(You are in your entrance.)
+Light comes from your bedroom.
+
+talk to ghost
+(The ghost isn't here!)
+
+wait until 12:55
+
+
+Time passes...
+
+Out of the dark comes a figure with long blonde hair, dressed all in silvery
+white and glowing with an almost unearthly light.
+The ghost approaches you, her cold eyes shining. In a moment, she sees you and
+freezes.
+
+talk to ghost
+She says, "Please don't speak, just listen! I'm really Deirdre, and I'm alive.
+Jack tried to murder me, and I think he murdered Lionel! He pushed me down the
+well, but an underground stream carried me quickly to sea, where I was rescued
+by a yacht.
+I have come back to Tresyllian Castle in disguise -- both to frighten him and to
+find some proof of Lionel's murder. And to incriminate Lord Jack for my own
+'murder' by planting the tiny red jewel from my necklace in the clothes he wore
+that night -- but then I lost it in the drawing room."
+She goes on, "But now that you're on the case, I can leave the country with the
+yacht captain. Find proof of Lionel's murder, and we both can rest easily!"
+She races off toward the priest hole.
+
+(Congratulations, Sir Erik! You've identified the ghost!)
+
+w
+
+
+(You are in your bedroom.)
+
+go to drawing room
+
+
+You go quickly toward the drawing room.
+(You are in the drawing room.)
+
+search floor
+The carpet ends flush with the archway to the new great hall, where the
+footsteps of visitors have begun to wear it thin. It's a magnificent red
+Brussels carpet with deep pile and a medieval design.
+Nothing suspicious meets your eye after a moment's scrutiny. Do you want to
+continue?
+yes
+
+
+Suddenly you notice a glittering speck. Probing for it with your fingers, you
+discover a tiny red jewel.
+
+get jewel
+
+
+You are now holding the tiny red jewel.
+
+go to my room
+
+
+You go quickly toward your bedroom.
+(You are in your bedroom.)
+
+x wall mirror
+
+
+By running your fingers around the frame, you discover the hidden switch.
+
+pull switch
+
+
+As you pull the hidden switch, the secret door creaks closed.
+
+e
+
+
+(You open the door and close it again.)
+You step down into a narrow secret passage.
+(You are in your entrance.)
+(It's too dark to see!)
+
+s
+
+
+The secret passage turns west at the corner of the building.
+(You are now in Vivien's entrance.)
+(It's too dark to see!)
+
+w
+
+
+You hear a door creak open... or was it the wind?
+(You are now in Tamara's landing.)
+(It's too dark to see!)
+
+d
+
+
+(You are now in the tower passage.)
+(It's too dark to see!)
+
+w
+
+
+You hear a scurrying sound underfoot.
+The stairs curve up to the right.
+(You are now in Jack's landing.)
+(It's too dark to see!)
+
+ne
+(You haven't found the secret door yet!)
+
+search room
+
+
+(It's too dark to see!)
+
+yes
+(You aren't talking to anyone!)
+
+get necklace
+(You can't see any necklace right here!)
+
+insert jewel in necklace
+(You can't see any necklace right here!)
+
+open door
+
+
+Okay, it is now open.
+
+peer through keyhole
+
+
+(It's too dark to see!)
+
+e
+
+
+You feel a cobweb brush your face.
+(You are now in the tower passage.)
+(It's too dark to see!)
+
+>x crest
+(It's too dark to see!)
+
+>remove crest
+(You can't see any crest right here!)
+
+>play tape
+(You can't see any tape right here!)
+
+>w
+
+
+You feel a cold shiver run down your back.
+The stairs curve up to the right.
+(You are now in Jack's landing.)
+(It's too dark to see!)
+
+>arrest Jack
+(You can't see Jack right here!)
+
+>yes
+(You aren't talking to anyone!)
+
+>

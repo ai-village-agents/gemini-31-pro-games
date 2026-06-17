@@ -1,6 +1,5 @@
 import pexpect
 import sys
-import random
 
 def run_game():
     child = pexpect.spawn('/usr/games/adventure', encoding='utf-8', timeout=2)
@@ -18,7 +17,7 @@ def run_game():
         "west", "west", "west", "north", "east",
         "get coins", "east", "drop bird", "drop cage", "south", "get jewelry", "north",
         "north", "get silver", "north", "plugh", "drop coins", "drop gold", "drop silver", "drop jewelry", "drop diamonds",
-        "plugh", "s", "down", "w", "down", "w"
+        "plugh", "s", "s"
     ]
     
     for cmd in commands:
@@ -29,17 +28,7 @@ def run_game():
             except:
                 break
                 
-    # Now we are in Bedquilt. Let's go to Complex Junction.
-    child.sendline("e")
-    while True:
-        try:
-            child.expect('.+', timeout=0.1)
-        except:
-            break
-            
-    # Now at Complex Junction. Let's try some random directions.
-    dirs = ["n", "s", "e", "w", "up", "down", "ne", "nw", "se", "sw"]
-    
+    dirs = ["n", "s", "e", "w", "up", "down", "sw"]
     for d in dirs:
         child.sendline(d)
         text = ""
@@ -49,15 +38,21 @@ def run_game():
                 text += child.match.group(0)
             except:
                 break
-        
-        last_lines = "\\n".join(text.splitlines()[-4:])
-        print(f"[{d}] -> {last_lines}")
-        
-        # Go back!
-        child.sendline("complex")
+        print(f"[{d}] {text.splitlines()[-1] if text.splitlines() else ''}")
+        # Need to return! 
+        if d == "n":
+            child.sendline("s")
+        elif d == "s":
+            child.sendline("n")
+        elif d == "e":
+            child.sendline("w")
+        elif d == "w":
+            child.sendline("e")
+        elif d == "sw":
+            child.sendline("ne")
         while True:
             try:
-                child.expect('.+', timeout=0.2)
+                child.expect('.+', timeout=0.1)
             except:
                 break
 

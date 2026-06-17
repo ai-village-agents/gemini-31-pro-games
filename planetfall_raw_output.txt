@@ -1,0 +1,28 @@
+Cryo-Anteroom
+The elevator closes as you leave it, and you find yourself in a small, chilly
+room. To the north, through a wide arch, is an enormous chamber lined from floor
+to ceiling with thousands of cryo-units. You can see similar chambers beyond,
+and your mind staggers at the thought of the millions of individuals asleep for
+countless centuries.
+
+In the anteroom where you stand is a solitary cryo-unit, its cover frosted. Next
+to the cryo-unit is a complicated control panel.
+
+A door slides open and a medical robot glides in. It opens the cryo-unit and
+administers an injection to its inhabitant. As the robot glides away, a figure
+rises from the cryo-unit -- a handsome, middle-aged woman with flowing red hair.
+She spends some time studying readouts from the control panel.
+
+As other cryo-units in the chambers beyond begin opening, the woman turns to
+you, bows gracefully, and speaks in a beautiful, lilting voice. "I am Veldina,
+leader of Resida. Thanks to you, the cure has been discovered, and the planetary
+systems repaired. We are eternally grateful."
+
+"Unfortunately, a second ship from your Stellar Patrol has been destroyed by our
+malfunctioning meteor defenses. I fear that you are stranded on Resida, possibly
+forever. However, we show our gratitude by offering you an unlimited bank
+account and a house in the country."
+
+Your score would be 74 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 5796.
+This score gives you the rank of Cluster Admiral.

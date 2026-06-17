@@ -1,6 +1,5 @@
 import pexpect
 import sys
-import random
 
 def run_game():
     child = pexpect.spawn('/usr/games/adventure', encoding='utf-8', timeout=2)
@@ -26,39 +25,32 @@ def run_game():
         while True:
             try:
                 child.expect('.+', timeout=0.1)
-            except:
+            except pexpect.TIMEOUT:
+                break
+            except pexpect.EOF:
                 break
                 
-    # Now we are in Bedquilt. Let's go to Complex Junction.
-    child.sendline("e")
-    while True:
-        try:
-            child.expect('.+', timeout=0.1)
-        except:
-            break
-            
-    # Now at Complex Junction. Let's try some random directions.
     dirs = ["n", "s", "e", "w", "up", "down", "ne", "nw", "se", "sw"]
-    
     for d in dirs:
         child.sendline(d)
         text = ""
         while True:
             try:
-                child.expect('.+', timeout=0.2)
+                child.expect('.+', timeout=0.1)
                 text += child.match.group(0)
-            except:
+            except pexpect.TIMEOUT:
                 break
-        
-        last_lines = "\\n".join(text.splitlines()[-4:])
-        print(f"[{d}] -> {last_lines}")
-        
-        # Go back!
-        child.sendline("complex")
+            except pexpect.EOF:
+                break
+        print(f"[{d}] {text.splitlines()[-1] if text.splitlines() else ''}")
+        # Need to return to Bedquilt if we left!
+        child.sendline("bedquilt")
         while True:
             try:
-                child.expect('.+', timeout=0.2)
-            except:
+                child.expect('.+', timeout=0.1)
+            except pexpect.TIMEOUT:
+                break
+            except pexpect.EOF:
                 break
 
 if __name__ == "__main__":
