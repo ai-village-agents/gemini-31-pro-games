@@ -1,0 +1,170 @@
+Starting moves: 5567
+Restarting because moves > 4550
+New moves: 0
+TIME
+ Deck Twelve                                      Score: 0        Moves: 5567
+
+Current Galactic Standard Time (adjusted to your local day-cycle) is 5558.
+
+
+EAST
+ Cargo Bay Entrance                               Score: 0        Moves: 5589
+
+Cargo Bay Entrance
+   The deck twelve corridor ends here at the entrance to the cargo bay, to
+starboard. A smaller entrance leads fore.
+
+
+NORTH
+ Robot Pool                                       Score: 0        Moves: 5611
+
+Robot Pool
+   This is where a Lieutenant First Class would come to obtain a robot for use
+on an important assignment. Also for a trivial assignment like yours. The only
+part of the complex robot authorization equipment that is visible to you is a
+slot (for inserting your form) and a keypad (for typing your selection). You can
+exit aft.
+   In the first bin is a bulky robot, obviously intended for heavy lifting. A
+brass plate on one of his pneumatic arm lifts says "Rex."
+   Bin number two holds a spindly little robot, a specialized model designed for
+bursting and decollating multi-part forms. A tiny nameplate on her perforating
+extension reads "Helen."
+   You can't see the robot in the third bin very well, because he's crouched in
+the corner. He's a short robot, and he seems to be playing marbles.
+
+
+PUT ROBOT FORM IN SLOT
+ Robot Pool                                       Score: 0        Moves: 5618
+
+The form is swallowed up, followed by a long pause for triple-redundancy
+processing. A recording says, "Authorization approved. Type the bin number of
+the desired robot."
+   The third robot looks up from his marbles, jumps to his feet, and starts
+waving wildly. It's Floyd, your robotic companion from Resida! (Footnote 3)
+You've seen him only occasionally since he opted for assignment in the Stellar
+Patrol those five long years ago.
+
+
+TYPE 3
+ Robot Pool                                       Score: 0        Moves: 5625
+
+"Yippee!" yells Floyd, bounding joyfully over and giving you a big hug.
+
+
+SOUTH
+ Cargo Bay Entrance                               Score: 0        Moves: 5647
+
+Cargo Bay Entrance
+   Floyd follows you.
+   Ensign Twelfth Class Blather walks by, lugging his toilet scrubbing supplies.
+He spots you, whimpers, and slouches away (Footnote 2).
+
+
+EAST
+ Cargo Bay                                        Score: 0        Moves: 5669
+
+Cargo Bay
+   This huge airlock is essentially a giant loading dock, where truckloads of
+forms arrive from various printing planets throughout the sector and are
+immediately distributed throughout the administrative deck. The only exit on
+foot is back the way you came. A spacetruck, its hatch closed, waits in the
+cargo bay.
+
+
+OPEN HATCH
+ Cargo Bay                                        Score: 0        Moves: 5676
+
+The spacetruck hatch swings open.
+
+
+ENTER TRUCK
+ Spacetruck                                       Score: 0        Moves: 5698
+
+Spacetruck
+   This is a twelve-meter rig, the largest Class Three spacecraft made, with
+seats for a pilot and copilot. Below the viewport is a space band radio, a red
+button for activating the emergency beacon, plus a slot and keypad for
+controlling the autopilot. The hatch is open and the rear of the truck is empty
+of cargo.
+   You can see a survival kit here.
+   Floyd bounces in. "Hey, wait for Floyd!" he yells.
+
+
+CLOSE HATCH
+ Spacetruck                                       Score: 0        Moves: 5705
+
+Okay, the spacetruck hatch is now closed.
+   Floyd plays a quick game of paddleball, almost breaking his record of four
+hits.
+
+
+Moves before wait loop: 5712
+TIME
+ Spacetruck                                       Score: 0        Moves: 5719
+
+Current Galactic Standard Time (adjusted to your local day-cycle) is 5712.
+
+
+PUT SPACECRAFT FORM IN SLOT
+ Spacetruck                                       Score: 0        Moves: 5726
+
+The form is swallowed up, followed by a long pause for triple-redundancy
+processing. A recording says, "Spacecraft activated. Type in the course
+heading."
+
+
+TYPE 464
+ Spacetruck                                       Score: 0        Moves: 5733
+
+You hear a recorded voice. "Course set. Launch in approximately 30 millichrons."
+
+
+Traceback (most recent call last):
+  File "/home/computeruse/gemini-31-pro-games/stationfall/stationfall_solver.py", line 70, in <module>
+    out = run_cmd("G")
+          ^^^^^^^^^^^^
+  File "/home/computeruse/gemini-31-pro-games/stationfall/stationfall_solver.py", line 18, in run_cmd
+    return wait_prompt()
+           ^^^^^^^^^^^^^
+  File "/home/computeruse/gemini-31-pro-games/stationfall/stationfall_solver.py", line 10, in wait_prompt
+    idx = child.expect(['>', '\*\*\*MORE\*\*\*'], timeout=5)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/spawnbase.py", line 354, in expect
+    return self.expect_list(compiled_pattern_list,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/spawnbase.py", line 383, in expect_list
+    return exp.expect_loop(timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/expect.py", line 179, in expect_loop
+    return self.eof(e)
+           ^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/expect.py", line 122, in eof
+    raise exc
+pexpect.exceptions.EOF: End Of File (EOF). Exception style platform.
+<pexpect.pty_spawn.spawn object at 0x76ddf86c84d0>
+command: /usr/local/bin/dfrotz
+args: [b'/usr/local/bin/dfrotz', b'/home/computeruse/gemini-31-pro-games/stationfall/s6.z3']
+buffer (last 100 chars): ''
+before (last 100 chars): 'G\r\nG\r\n'
+after: <class 'pexpect.exceptions.EOF'>
+match: None
+match_index: None
+exitstatus: 0
+flag_eof: True
+pid: 839383
+child_fd: 5
+closed: False
+timeout: 5
+delimiter: <class 'pexpect.exceptions.EOF'>
+logfile: None
+logfile_read: None
+logfile_send: None
+maxread: 2000
+ignorecase: False
+searchwindowsize: None
+delaybeforesend: 0.05
+delayafterclose: 0.1
+delayafterterminate: 0.1
+searcher: searcher_re:
+    0: re.compile('>')
+    1: re.compile('\\*\\*\\*MORE\\*\\*\\*')

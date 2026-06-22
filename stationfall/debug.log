@@ -1,0 +1,789 @@
+Using normal formatting.
+Loading /home/computeruse/gemini-31-pro-games/stationfall/s6.z3.
+It's been five years since your planetfall on Resida. Your heroics in saving
+that doomed world resulted in a big promotion, but your life of dull scrubwork
+has been replaced by a life of dull paperwork. Today you find yourself amidst
+the administrative maze of Deck Twelve on a typically exciting task: an
+emergency mission to Space Station Gamma Delta Gamma 777-G 59/59 Sector Alpha-
+Mu-79 to pick up a supply of Request for Stellar Patrol Issue Regulation Black
+Form Binders Request Form Forms...
+
+STATIONFALL
+Infocom interactive fiction -- a science fiction story
+Copyright (c) 1987 by Infocom, Inc. All rights reserved.
+STATIONFALL is a trademark of Infocom, Inc.
+Release 107 / Serial number 870430
+
+Deck Twelve
+   You are in the heart of the administrative level of the ship, the largest
+level of the S.P.S. Duffy or any other Stellar Patrol ship for that matter. The
+corridor continues starboard and a room lies aft. Beyond the door to port lies
+the bulk of the Duffy. Next to the door is a slot.
+
+>TIME
+TIME
+ Deck Twelve                                      Score: 0        Moves: 5371
+
+Current Galactic Standard Time (adjusted to your local day-cycle) is 5362.
+
+>EAST
+EAST
+ Cargo Bay Entrance                               Score: 0        Moves: 5393
+
+Cargo Bay Entrance
+   The deck twelve corridor ends here at the entrance to the cargo bay, to
+starboard. A smaller entrance leads fore.
+
+>NORTH
+NORTH
+ Robot Pool                                       Score: 0        Moves: 5415
+
+Robot Pool
+   This is where a Lieutenant First Class would come to obtain a robot for use
+on an important assignment. Also for a trivial assignment like yours. The only
+part of the complex robot authorization equipment that is visible to you is a
+slot (for inserting your form) and a keypad (for typing your selection). You can
+exit aft.
+   In the first bin is a bulky robot, obviously intended for heavy lifting. A
+brass plate on one of his pneumatic arm lifts says "Rex."
+   Bin number two holds a spindly little robot, a specialized model designed for
+bursting and decollating multi-part forms. A tiny nameplate on her perforating
+extension reads "Helen."
+   You can't see the robot in the third bin very well, because he's crouched in
+the corner. He's a short robot, and he seems to be playing marbles.
+
+>PUT ROBOT FORM IN SLOT
+PUT ROBOT FORM IN SLOT
+ Robot Pool                                       Score: 0        Moves: 5422
+
+The form is swallowed up, followed by a long pause for triple-redundancy
+processing. A taped voice whispers in your ear. "Authorization approved. Type
+the bin number of the desired robot."
+   The third robot looks up from his marbles, jumps to his feet, and starts
+waving wildly. It's Floyd, your robotic companion from Resida! (Footnote 3)
+You've seen him only occasionally since he opted for assignment in the Stellar
+Patrol those five long years ago.
+   Ensign Twelfth Class Blather walks by, lugging his toilet scrubbing supplies.
+He spots you, whimpers, and slouches away (Footnote 2).
+
+>3
+3
+[There was no verb in that sentence!]
+
+>SOUTH
+SOUTH
+ Cargo Bay Entrance                               Score: 0        Moves: 5444
+
+Cargo Bay Entrance
+
+>EAST
+EAST
+ Cargo Bay                                        Score: 0        Moves: 5466
+
+Cargo Bay
+   This huge airlock is essentially a giant loading dock, where truckloads of
+forms arrive from various printing planets throughout the sector and are
+immediately distributed throughout the administrative deck. The only exit on
+foot is back the way you came. A spacetruck, its hatch closed, waits in the
+cargo bay.
+
+>OPEN HATCH
+OPEN HATCH
+ Cargo Bay                                        Score: 0        Moves: 5473
+
+The spacetruck hatch swings open.
+
+>ENTER TRUCK
+ENTER TRUCK
+ Spacetruck                                       Score: 0        Moves: 5495
+
+Spacetruck
+   This is a twelve-meter rig, the largest Class Three spacecraft made, with
+seats for a pilot and copilot. Below the viewport is a space band radio, a red
+button for activating the emergency beacon, plus a slot and keypad for
+controlling the autopilot. The hatch is open and the rear of the truck is empty
+of cargo.
+   You can see a survival kit here.
+
+>CLOSE HATCH
+CLOSE HATCH
+ Spacetruck                                       Score: 0        Moves: 5502
+
+Okay, the spacetruck hatch is now closed.
+
+>SIT ON PILOT SEAT
+SIT ON PILOT SEAT
+ Spacetruck                                       Score: 0        Moves: 5509
+
+You are now in the pilot seat.
+
+>PUT SPACECRAFT FORM IN SLOT
+PUT SPACECRAFT FORM IN SLOT
+ Spacetruck                                       Score: 0        Moves: 5516
+
+The form is spit back out. You hear a recorded voice. "Safety precautions forbid
+the activation of the vehicle unless both the pilot and copilot seats are
+occupied."
+
+>TIME
+TIME
+ Spacetruck                                       Score: 0        Moves: 5523
+
+Current Galactic Standard Time (adjusted to your local day-cycle) is 5516.
+
+>TYPE 464
+TYPE 464
+ Spacetruck                                       Score: 0        Moves: 5530
+
+You hear a recorded voice. "Keyboard is active only following authorization."
+
+>WAIT
+WAIT
+ Spacetruck                                       Score: 0        Moves: 5570
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5610
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5650
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5690
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5730
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5770
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5810
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5850
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5890
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5930
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 5970
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6010
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6050
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6090
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6130
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6170
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6210
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6250
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6290
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6330
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6370
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6410
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6450
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6490
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6530
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6570
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6610
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6650
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6690
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6730
+
+Time passes...
+   A growl from your stomach warns that you're getting pretty hungry and
+thirsty.
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6770
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6810
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6850
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6890
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6930
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 6970
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7010
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7050
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7090
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7130
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7170
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7210
+
+Time passes...
+   You're now really ravenous and your lips are quite parched.
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7250
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7290
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7330
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7370
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7410
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7450
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7490
+
+Time passes...
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7530
+
+Time passes...
+   You're starting to feel faint from lack of food and liquid.
+
+>G
+G
+ Spacetruck                                       Score: 0        Moves: 7570
+
+Time passes...
+
+>GET UP
+GET UP
+ Spacetruck                                       Score: 0        Moves: 7577
+
+You get out of the pilot seat.
+
+>DROP FORM
+DROP FORM
+[Which form do you mean, the Class Three Spacecraft Activation Form HB-56-V or
+the Assignment Completion Form QX-17-T?]
+
+>GET KIT
+GET KIT
+ Spacetruck                                       Score: 0        Moves: 7584
+
+Taken.
+
+>OPEN HATCH
+OPEN HATCH
+ Spacetruck                                       Score: 0        Moves: 7591
+
+The spacetruck hatch swings open.
+
+>OUT
+OUT
+ Cargo Bay                                        Score: 0        Moves: 7613
+
+Cargo Bay
+
+>EAST
+EAST
+ Cargo Bay                                        Score: 0        Moves: 7620
+
+You can't go that way.
+
+>OPEN KIT
+OPEN KIT
+ Cargo Bay                                        Score: 0        Moves: 7627
+
+Opening the survival kit reveals a blob of orange goo, a blob of gray goo and a
+Thermos bottle.
+
+>DROP KIT
+DROP KIT
+ Cargo Bay                                        Score: 0        Moves: 7634
+
+Dropped.
+
+>SE
+SE
+ Cargo Bay                                        Score: 0        Moves: 7641
+
+You can't go that way.
+
+>SE
+SE
+ Cargo Bay                                        Score: 0        Moves: 7648
+
+You can't go that way.
+
+>EAST
+EAST
+ Cargo Bay                                        Score: 0        Moves: 7655
+
+You can't go that way.
+
+>GET TAPE
+GET TAPE
+You can't see any tape here!
+
+>WEST
+WEST
+ Cargo Bay Entrance                               Score: 0        Moves: 7677
+
+Cargo Bay Entrance
+
+>PUT TAPE IN READER
+PUT TAPE IN READER
+Those things aren't here!
+
+>TURN READER ON
+TURN READER ON
+You can't see any reader here!
+
+>SOUTH
+SOUTH
+ Cargo Bay Entrance                               Score: 0        Moves: 7684
+
+You can't go that way.
+   If you don't eat or drink something in a few millichrons, you'll probably
+pass out.
+
+>WEST
+WEST
+ Deck Twelve                                      Score: 0        Moves: 7706
+
+Deck Twelve
+
+>WEST
+WEST
+ Deck Twelve                                      Score: 0        Moves: 7713
+
+The door is closed.
+
+>FLOYD, GET BIT
+FLOYD, GET BIT
+You can't see Floyd here!
+
+>GET BIT
+GET BIT
+You can't see any bit here!
+
+>EAST
+EAST
+ Cargo Bay Entrance                               Score: 0        Moves: 7735
+
+Cargo Bay Entrance
+
+>NORTH
+NORTH
+ Robot Pool                                       Score: 0        Moves: 7757
+
+Robot Pool
+   In the first bin is a bulky robot, obviously intended for heavy lifting. A
+brass plate on one of his pneumatic arm lifts says "Rex."
+   Bin number two holds a spindly little robot, a specialized model designed for
+bursting and decollating multi-part forms. A tiny nameplate on her perforating
+extension reads "Helen."
+   With unconcealed excitement, Floyd is hopping around in bin number three.
+
+>NW
+NW
+ Robot Pool                                       Score: 0        Moves: 7764
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>DOWN
+DOWN
+ Robot Pool                                       Score: 0        Moves: 7771
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>DOWN
+DOWN
+ Robot Pool                                       Score: 0        Moves: 7778
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>OPEN CAN
+OPEN CAN
+You can't see any can here!
+
+>GET FORM
+GET FORM
+[Which form do you mean, the Class Three Spacecraft Activation Form HB-56-V or
+the Assignment Completion Form QX-17-T?]
+
+>NW
+NW
+ Robot Pool                                       Score: 0        Moves: 7785
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>GET DRILL
+GET DRILL
+You can't see any drill here!
+
+>SE
+SE
+ Robot Pool                                       Score: 0        Moves: 7792
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>UP
+UP
+ Robot Pool                                       Score: 0        Moves: 7799
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>UP
+UP
+ Robot Pool                                       Score: 0        Moves: 7806
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>GET THERMOS
+GET THERMOS
+You can't see any Thermos here!
+
+>OPEN THERMOS
+OPEN THERMOS
+You can't see any Thermos here!
+
+>DRINK SOUP
+DRINK SOUP
+You can't see any soup here!
+
+>DROP THERMOS
+DROP THERMOS
+You can't see that here!
+
+>SE
+SE
+ Robot Pool                                       Score: 0        Moves: 7813
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>SE
+SE
+ Robot Pool                                       Score: 0        Moves: 7820
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>EAST
+EAST
+ Robot Pool                                       Score: 0        Moves: 7827
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+
+>GET SMALL DRILL BIT
+GET SMALL DRILL BIT
+You can't see any small drill bit here!
+
+>DROP SMALL DRILL BIT
+DROP SMALL DRILL BIT
+You can't see that here!
+
+>PUT MEDIUM BIT IN DRILL
+PUT MEDIUM BIT IN DRILL
+Those things aren't here!
+
+>DRILL SAFE
+DRILL SAFE
+You can't see any safe here!
+
+>DROP DRILL
+DROP DRILL
+You can't see that here!
+
+>LOOK UNDER BED
+LOOK UNDER BED
+You can't see any bed here!
+
+>GET STAMP
+GET STAMP
+You can't see any stamp here!
+
+>WEST
+WEST
+ Robot Pool                                       Score: 0        Moves: 7834
+
+You can't go that way.
+   Floyd jumps up and down saying, "Oh boy oh boy oh boy pick Floyd pick Floyd
+pick Floyd!"
+   You collapse from extreme thirst and hunger.
+
+      ****  You have died  ****
+
+It is Day 1 of your adventure. Current Galactic Standard Time (adjusted to your
+local day-cycle) is 7834. Your score is 0 (of 80 points), giving you the rank of
+Insignificant Nobody.
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >NW
+NW
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >NW
+NW
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >UP
+UP
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >UP
+UP
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >UP
+UP
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >NORTH
+NORTH
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >GET DETONATOR
+GET DETONATOR
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >OPEN DETONATOR
+OPEN DETONATOR
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >GET HYPERDIODE
+GET HYPERDIODE
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >DROP HYPERDIODE
+DROP HYPERDIODE
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: >SW
+SW
+EOF reached after command SW
+DOWN
+DOWN
+EOF reached after command DOWN

@@ -1,0 +1,547 @@
+GET UP
+ Commander's Office                               Score: 50       Moves: 2790
+
+You can barely twitch your pinky!
+   "As you've certainly surmised, the pyramid has engineered the deaths of
+everyone on this station. You're still alive, of course, but that condition is
+very temporary. The building of replicas is now underway, and soon a hundred
+copies of this death-pyramid will be shooting silently toward every corner of
+human-occupied space! Well, I hope I made the last moments of your life a bit
+more interesting." He raises the stun ray.
+   Floyd, nearly in tears, his jaw quivering, wails, "Please oh please don't
+hurt Floyd's friend!" Plato gives him a look of disgust. "Stay out of this
+Floyd. You don't understand...yet."
+
+
+GET ZAPGUN
+ Commander's Office                               Score: 57       Moves: 2797
+
+You can barely twitch your pinky, let alone move that much!
+   Plato takes aim with the stun gun. His hand begins to depress the trigger.
+Floyd suddenly leaps at the gun, knocking it out of Plato's hands! The gun
+skitters across the floor. Plato and Floyd both chase it, but Plato is a step
+faster. He leaps on top of it, rupturing the gun's power pack. The gun explodes,
+and Plato is blown apart!
+   Floyd crumples to the deck, shaking all over. Tears of oil stream down his
+face.
+   Pins and needles begin prickling in your extremities, and soon spread all
+over your body. Within a few seconds, all your muscular control has returned.
+
+
+EAST
+ Commander's Quarters                             Score: 57       Moves: 2819
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Commander's Quarters
+   A sturdy safe is welded to the deck next to the desk.
+   You can see a drill and a small drill bit here. It seems that the drill
+contains a medium drill bit.
+
+
+OPEN THERMOS
+You can't see any Thermos here!
+
+
+GET EXPLOSIVE
+You can't see any explosive here!
+
+
+CONNECT TIMER TO DETONATOR
+Those things aren't here!
+
+
+CONNECT DETONATOR TO EXPLOSIVE
+Those things aren't here!
+
+
+PUT EXPLOSIVE IN HOLE
+You can't see any explosive here!
+
+
+DROP TIMER
+You can't see that here!
+
+
+DROP DETONATOR
+You can't see that here!
+
+
+DROP THERMOS
+You can't see that here!
+
+
+TURN HEADLAMP ON
+ Commander's Quarters                             Score: 57       Moves: 2826
+
+Okay, the headlamp is now on.
+   Floyd bounds into the room. "Floyd here now!" he cries.
+
+
+SET TIMER TO 5
+You can't see any timer here!
+
+
+WEST
+ Commander's Office                               Score: 57       Moves: 2848
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Commander's Office
+   You can see a detonator, a fusor-beam zapgun, a timer and a Thermos bottle
+here.
+   Floyd follows you.
+
+
+EAST
+ Commander's Quarters                             Score: 57       Moves: 3270
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Commander's Quarters
+   A sturdy safe is welded to the deck next to the desk.
+   You can see a drill and a small drill bit here. It seems that the drill
+contains a medium drill bit.
+   Floyd follows you.
+
+
+GET KEY
+You can't see any key here!
+
+
+WEST
+ Commander's Office                               Score: 57       Moves: 3292
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Commander's Office
+   You can see a detonator, a fusor-beam zapgun, a timer and a Thermos bottle
+here.
+   Floyd follows you.
+
+
+NW
+ South Junction                                   Score: 57       Moves: 3314
+
+South Junction
+   Floyd follows you.
+
+
+NW
+ Level Five                                       Score: 57       Moves: 3336
+
+Level Five
+   You can see a survival kit here. It seems that the survival kit contains a
+blob of gray goo.
+   Floyd follows you.
+
+
+NORTH
+ Workshop                                         Score: 57       Moves: 3358
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Workshop
+   This is a fairly large space where much of the maintenance work for the
+station takes place. Some repair work for visiting ships is also done here. The
+room is filled with all sorts of repair and fabrication machinery. A door leads
+south, and there's an opening to the north.
+   You can see a twenty-ohm bedistor here.
+
+
+NORTH
+ Storage                                          Score: 57       Moves: 3380
+
+Storage
+   This is one of the storage areas. Exits lie to the east and south.
+   You can see a jammer here.
+
+
+GET JAMMER
+ Storage                                          Score: 57       Moves: 3387
+
+Taken.
+
+
+EAST
+ North Connection                                 Score: 57       Moves: 3409
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+North Connection
+   The corridor widens here as it approaches the skin of the space station at
+the point where a Scientific Sub-Module would connect. Sure enough, the
+connecting tube of a Sub-Module begins just to the north! An auto-door lies to
+the west. Opposite it, a doorway leads east. A junction is visible to the south.
+
+
+NORTH
+ Tube                                             Score: 57       Moves: 3431
+
+Tube
+   This shiny cylindrical corridor is the connector between the Command Module,
+to the south, and the Scientific Sub-Module, to the north.
+
+
+NORTH
+ Engineering Lab                                  Score: 57       Moves: 3453
+
+Engineering Lab
+   This laboratory, which fills most of the middle level of the Sub-Module, is
+for the study of applications of the various space-related research that takes
+place on the other levels. Gangways lead up and down, and a door leads north. A
+connecting tube opens to the south.
+
+
+UP
+ Astro Lab                                        Score: 57       Moves: 3475
+
+Astro Lab
+   This laboratory conducts research into various space-related physical
+sciences. Gangways lead up and down, and there's a door to the north.
+   You can see a twenty-prong fromitz board here.
+
+
+GET BOARD
+ Astro Lab                                        Score: 57       Moves: 3482
+
+Taken.
+
+
+PUT BOARD IN JAMMER
+ Astro Lab                                        Score: 57       Moves: 3489
+
+Done.
+
+
+SET JAMMER TO 710
+ Astro Lab                                        Score: 57       Moves: 3496
+
+You set the jammer to 710.
+
+
+DOWN
+ Engineering Lab                                  Score: 57       Moves: 3518
+
+Engineering Lab
+
+
+SOUTH
+ Tube                                             Score: 57       Moves: 3540
+
+Tube
+
+
+SOUTH
+ North Connection                                 Score: 57       Moves: 3562
+
+North Connection
+
+
+SOUTH
+ North Junction                                   Score: 57       Moves: 3584
+
+North Junction
+
+
+SE
+ East Junction                                    Score: 57       Moves: 3606
+
+East Junction
+   You spot a hull welder approaching. This welder, which is marked "Welder
+Number 4," seems to be moving purposefully toward you, its welding extensions
+quivering with...excitement?
+
+
+EAST
+ East Connection                                  Score: 57       Moves: 3628
+
+East Connection
+   Nearby, you hear the welder move off in another direction.
+
+
+EAST
+ Makeshift Connector                              Score: 57       Moves: 3650
+
+As you cross the boundary of the Command Module, the station's artificial
+gravity cuts off suddenly, leaving you weightless.
+
+Makeshift Connector
+
+
+EAST
+ Broadway                                         Score: 57       Moves: 3672
+
+Broadway
+   Floyd meanders in. "You doing anything fun?" he asks, and then answers his
+own question, "Nope. Same dumb boring things."
+
+
+SE
+ Barbershop                                       Score: 57       Moves: 3694
+
+Barbershop
+   You have entered a surprisingly old-fashioned looking tonsorial parlor. The
+far wall is covered by a classic barbershop mirror. A space village seems to be
+the last place in the civilized galaxy where someone can have their hair or fur
+trimmed by an actual human being. The barber isn't here, though. Doors lead
+northwest and west.
+   Floyd follows you.
+
+
+BREAK MIRROR
+ Barbershop                                       Score: 57       Moves: 3701
+
+The mirror smashes into a cloud of glass dust, which (fortunately) is quickly
+sucked away by the barbershop's ventilation system. As the glass is sucked away
+you discover what gave the mirror its reflectivity: A piece of reflective foil
+is hanging on the wall where the mirror once was.
+
+
+GET FOIL
+ Barbershop                                       Score: 61       Moves: 3708
+
+Taken.
+   Floyd mumbles about a mysterious future in which humans will have to take
+orders from robots.
+
+
+NW
+ Broadway                                         Score: 61       Moves: 3730
+
+Broadway
+
+
+WEST
+ Makeshift Connector                              Score: 61       Moves: 3752
+
+Makeshift Connector
+
+
+WEST
+ East Connection                                  Score: 61       Moves: 3774
+
+As you cross the boundary of the Command Module, the station's artificial
+gravity once again tugs you against the deck.
+
+East Connection
+   Floyd meanders in. "You doing anything fun?" he asks, and then answers his
+own question, "Nope. Same dumb boring things."
+
+
+NW
+ Sick Bay                                         Score: 61       Moves: 3796
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+Sick Bay
+   Floyd follows you.
+
+
+WEST
+ North Junction                                   Score: 61       Moves: 3818
+
+The auto-door opens sluggishly. As soon as you have passed through, it zooms
+shut, seemingly a little sooner than normal.
+
+North Junction
+
+
+SW
+ Level Five                                       Score: 61       Moves: 3840
+
+Level Five
+   You can see a survival kit here. It seems that the survival kit contains a
+blob of gray goo.
+
+
+UP
+ Level Four                                       Score: 61       Moves: 3862
+
+Level Four
+   Floyd meanders in. "You doing anything fun?" he asks, and then answers his
+own question, "Nope. Same dumb boring things."
+
+
+UP
+ Level Three                                      Score: 61       Moves: 3884
+
+Level Three
+   Floyd follows you.
+
+
+UP
+ Mess Hall                                        Score: 61       Moves: 3906
+
+Mess Hall
+   A cup of thick brown coffee sits on one of the tables.
+   Floyd follows you.
+
+
+UP
+ Dome                                             Score: 61       Moves: 3928
+
+Dome
+   This is inarguably the most bucolic spot aboard the station. Pebbled paths
+wind among beautiful and exotic shrubbery, culled from millenia of galactic
+exploration. Spanning the entire garden is a transparent dome, providing a
+breathtaking view of the heavens in all their splendor. East of where you are
+standing are an elevator shaft, a button, and the top of a ladder. Next to the
+ladder are an air shaft grating and a thick metal storage bin with a sign
+stencilled on it.
+   Floyd follows you.
+
+
+UNLOCK BIN
+ Dome                                             Score: 61       Moves: 3935
+
+Your nose is key-shaped, I suppose?
+   Floyd tells an off-color joke about the bizarre mating habits of flesh and
+blood creatures.
+
+
+OPEN BIN
+ Dome                                             Score: 61       Moves: 3942
+
+It's locked.
+
+
+GET ZAPGUN
+You can't see any zapgun here!
+
+
+GET JAMMER
+ Dome                                             Score: 61       Moves: 3949
+
+You already have the jammer.
+
+
+GET FOIL
+ Dome                                             Score: 61       Moves: 3956
+
+You already have reflective foil.
+
+
+REMOVE GRATE
+ Dome                                             Score: 61       Moves: 3963
+
+The grating is securely affixed.
+
+
+ENTER AIR SHAFT
+ Dome                                             Score: 61       Moves: 3970
+
+Impossible, unless you can pass through holes a centimeter across.
+
+
+DOWN
+ Mess Hall                                        Score: 61       Moves: 3992
+
+Mess Hall
+   A cup of thick brown coffee sits on one of the tables.
+   Floyd follows you.
+
+
+DOWN
+ Level Three                                      Score: 61       Moves: 4014
+
+Level Three
+   Floyd follows you.
+
+
+DOWN
+ Level Four                                       Score: 61       Moves: 4036
+
+Level Four
+   You spot a hull welder approaching. This welder, which is marked "Welder
+Number 4," seems to be moving purposefully toward you, its welding extensions
+quivering with...excitement?
+   Floyd follows you.
+
+
+DOWN
+ Level Five                                       Score: 61       Moves: 4058
+
+Level Five
+   You can see a survival kit here. It seems that the survival kit contains a
+blob of gray goo.
+   Nearby, you hear the welder move off in another direction.
+
+
+DOWN
+ Level Six                                        Score: 61       Moves: 4080
+
+Level Six
+   The light from the headlamp seems somewhat dimmer.
+   Floyd meanders in. "You doing anything fun?" he asks, and then answers his
+own question, "Nope. Same dumb boring things."
+
+
+DOWN
+ Printing Plant                                   Score: 61       Moves: 4102
+
+Printing Plant
+   You can see a trash can and a mauve nanofilm spool here.
+   Floyd follows you.
+
+
+DOWN
+ Printing Plant                                   Score: 61       Moves: 4109
+
+A few rungs down, you discover that the ladder passage to Level Eight is sealed
+off -- apparently from below.
+
+
+DOWN
+ Printing Plant                                   Score: 61       Moves: 4116
+
+A few rungs down, you discover that the ladder passage to Level Eight is sealed
+off -- apparently from below.
+   Floyd says, "Floyd going exploring. See you later." He glides out of the
+room.
+
+
+KICK GRATE
+You can't see any grate here!
+
+
+TURN JAMMER ON
+ Printing Plant                                   Score: 61       Moves: 4123
+
+Okay, the jammer is now on.
+   You hear a clanging noise from the deck below. Suddenly, it stops.
+
+
+TURN JAMMER OFF
+ Printing Plant                                   Score: 61       Moves: 4130
+
+Okay, the jammer is now off.
+
+
+UP
+ Level Six                                        Score: 61       Moves: 4152
+
+Level Six
+
+
+SHOOT FLOYD
+You can't see Floyd here!
+
+
+PUT FOIL ON PYRAMID
+You can't see any pyramid here!
+
+
+SCORE
+You're currently getting brief descriptions. It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 4152. Your
+score is 61 (of 80 points), giving you the rank of Interplanetary Star.
+
+

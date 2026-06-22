@@ -1,0 +1,308 @@
+
+
+    Home
+    Boards
+    News
+    Q&A
+    Community
+    Contribute
+    Games
+
+
+    3DS
+    Android
+    Board/Card
+    iOS
+    PC
+    PlayStation 3
+    PlayStation 4
+    PlayStation 5
+    Switch
+    Switch 2
+    Vita
+    Xbox 360
+    Xbox One
+    Xbox Series
+    More Systems
+
+PCPS4PS5SwitchSwitch 2Xbox OneXbox SeriesMore Systems
+Log In Sign Up
+GameFAQs
+Boards
+News
+Q&A
+Community
+Contribute
+Games
+Stationfall – Walkthrough
+PC
+
+    Home
+    Guides
+    Q&A
+    Media
+    Board
+
+Walkthrough (PC) by sdunigan
+
+Version: 1.0 | Updated: 04/20/2009
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FAQ TITLE:
+
+The Optimized Straightforward Walkthru for Stationfall
+
+COPYRIGHT INFO:
+
+This FAQ is copyright 2009-2010 by Stanley E. Dunigan (dunigase@yahoo.com).
+
+This FAQ may be posted and used anywhere by anyone as long as it's unaltered,
+but always check one of the official websites listed below for the latest
+version.
+
+GameFAQs (www.gamefaqs.com)
+SuperCheats (www.supercheats.com)
+Neoseeker (www.neoseeker.com)
+Cheat Happens (www.cheathappens.com)
+
+FAQ DESCRIPTION:
+
+Like all of my optimized straightforward walkthrus, this FAQ is a complete
+walkthru for the game that has been optimized and organized to make it as fast
+and easy as possible to complete the game. I don't give any reference-style
+information, like a list of all items, or encourage you to do unnecessary
+things. In true walkthru fashion, I just tell you the answers without explaining
+or rationalizing them. If you want non-spoiler-ish hints, see the Stationfall
+hint file on the Universal Hint System (UHS) website at: www.uhs-hints.com.
+
+VERSION 1.0 (4/20/2009) NOTES AND CREDITS:
+
+This is the original release of this FAQ, so I have no special notes or credits
+to report yet.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+NOTE: This FAQ was written while playing the Stationfall version that came with
+the Lost Treasures of Infocom package that was released in 1991 by Activision.
+As far as I know, everything will be the same for other game versions.
+
+
+*** STEP 1: Fall down to a station. ***
+
+The first thing to do is check the current time, which is given as your number
+of moves. (Dumb, but true.) If your starting moves number is larger than 4550,
+use the RESTART command to start the game over again. Keep doing that until you
+get a starting moves value that's under 4550.
+
+Go east and north to find the robot pool, then use your robot form with the slot
+(PUT ROBOT FORM IN SLOT) and choose Floyd (TYPE 3). Go south and east to reach
+the cargo bay, then open the spacetruck's hatch (OPEN HATCH) and go inside
+(ENTER TRUCK).
+
+Close the truck's hatch, then sit down in the pilot's seat (SIT ON PILOT SEAT).
+Activate the controls with your spacecraft activation form (PUT SPACECRAFT FORM
+IN SLOT), then type in the correct course heading. It's time-dependent, so use
+the WAIT command if necessary to get your moves number in the 4700 to 4749
+range. (If it's already past 4749, restart the game and try again.)
+
+Type in course code 464 (TYPE 464), then wait until the spacetruck lands on the
+space station you're going to. It's fastest to use the WAIT command once, then
+use the G (short for AGAIN) command until the spacetruck settles to the floor of
+docking bay two, and some voice whispers "Stationfall" all cool and dramatic-
+like.
+
+
+*** STEP 2: Learn about the key in the safe. ***
+
+Leave the pilot seat (GET UP), then drop the useless form you're carrying and
+get the survival kit. Open the hatch and exit the truck, then go east to enter
+level five. Due to the nearby ladder, this is a good "central" place to stash
+your food supply, so open the survival kit and drop it.
+
+WARNING: There are several berserk welder robots which will randomly appear and
+come after you. They'll kill you if you don't leave the room quickly, so watch
+for them and remember to dodge them whenever they appear. (Or shoot them with
+the zapgun after you get it on step 5.)
+
+Go southeast twice and then east to reach the commander's quarters. Get the log
+tape, then go west and use the log reader to read it (PUT TAPE IN READER. TURN
+READER ON). You need the key that the commander has locked in the safe, and
+getting it will take up most of the rest of the game.
+
+
+*** STEP 3: Drill a hole in the safe. ***
+
+Go south and west twice to enter the robot shop. Ask Floyd to get the medium
+drill bit for you (FLOYD, GET BIT), then pick it up. Go east, north, and
+northwest to return to the room with the ladder, then go down twice to reach
+level 7.
+
+Open the trash can and take the crumpled form, which you'll need in step 2. Go
+northwest and get the drill, then go southeast and up twice to return to level
+5. Get the thermos and open it, then drink the soup from it (DRINK SOUP) to put
+an end to your hunger for awhile.
+
+Drop the thermos, then return to the commander's quarters (two southeasts and an
+east). Remove the small drill bit from the drill (GET SMALL DRILL BIT), then
+drop it. Install the medium drill bit (PUT MEDIUM BIT IN DRILL), drill a hole in
+the safe (DRILL SAFE), then drop the drill.
+
+
+*** STEP 4: Get a working detonator. ***
+
+Look under the bed (LOOK UNDER BED) to find a validation stamp, then take it. Go
+back to the ladder (west, northwest twice), then go up three times to reach the
+mess hall. Go north and get the detonator, then open it to see that its
+hyperdiode is burned out. Get and drop the hyperdiode, then go southwest and
+down the ladder to level 3.
+
+Go northwest to the laundry, then use the following commands to smooth out your
+crumpled form: OPEN PRESSER. PUT CRUMPLED FORM IN PRESSER. CLOSE PRESSER. TURN
+PRESSER ON. OPEN PRESSER. TURN PRESSER OFF. You can now get your newly smoothed-
+out Illegal Space Village Entry Form (GET FORM).
+
+Validate the form with the stamp you got earlier (VALIDATE FORM), then drop the
+stamp and go east. Go down twice to reach level 5, then go southeast and south.
+Put the village form in the slot next to the hatch (PUT FORM IN SLOT) to open
+it, then go south twice, southeast, and southwest to find the pawn shop.
+
+Get the spray can, then go northeast twice, up, and northwest to enter the pet
+store. Look at the ceiling, then open the panel you find (OPEN PANEL) and take
+the ostrich nip. It'll be useful in step 5.
+
+Next, let the Arcturian balloon creature out (OPEN CAGE), then go northeast and
+use the spray can to lure the creature after you (SPRAY CAN). Go west and spray
+the can, then repeat that twice to get to the east junction. From there, go
+southwest, northwest, and up twice, spraying the can after every move.
+
+You'll now have lured the balloon creature all the way to level 3. Go southwest
+to the chapel, but don't spray the can yet. Open the pulpit and flip its switch
+(FLIP SWITCH) to turn the "eternal flame" off, then spray the can to get the
+balloon creature into the chapel.
+
+Grab onto the balloon creature's leash (GRAB LEASH) to get lifted up, then get
+the chapel's seven-pointed star (GET STAR). Drop back down to the floor (LET GO
+OF LEASH), then open the star and take its hyperdiode. Install the hyperdiode in
+the detonator (PUT HYPERDIODE IN DETONATOR), then close the detonator and drop
+the star and spray can.
+
+
+*** STEP 5: Get a timer. ***
+
+Go east and down twice, then southeast, south three times, northeast twice, and
+southeast. Get your ID card out of your uniform (GET ID CARD), then put it into
+the "innocuous machine" (PUT CARD IN MACHINE). Turn the machine on, use it to
+promote yourself to Grand Fleet HyperAdmiral (TYPE 10), then get your card.
+
+Go back the way you came (northwest, southwest twice, north three times, and
+northwest), then go down the ladder to level 6. Go southeast, then use your ID
+card to open the armory door (PUT CARD IN READER). Go north and get the zapgun,
+then go south, west, and up to return to level 5.
+
+Go southeast, south three times, southeast, and south to find the loan shark's
+place. Examine the strong box to see that it has a HUGE lock, then shoot the
+lock off with your new zapgun (SHOOT LOCK). Get the coin that remains, then drop
+the ID card.
+
+Go north and southeast to find an ostrich, then go northwest twice, north three
+times, northwest, and northeast twice. You'll arrive at the PX, and the ostrich
+will have followed you all the way there due to the ostrich nip in your
+inventory.
+
+Put the coin from the strong box into the dispenser's slot (PUT COIN IN SLOT),
+then choose to buy the timer (TYPE 6). The timer will get stuck inside the
+dispenser, which is where the ostrich comes in. Put the ostrich nip into the
+dispenser's exit hole (PUT NIP IN HOLE), then pick up the timer after the
+ostrich knocks it out for you.
+
+
+*** STEP 6: Get an explosive. ***
+
+Go southwest and east to sickbay, then get some sleep (LIE DOWN. WAIT). Get out
+of bed and reclaim your dropped items (GET UP. GET ALL), then go west and
+southwest. Get the thermos, then go northeast, southeast, and east four times.
+Get the headlamp and wear it, then go west, south, southeast, and east to the
+casino.
+
+Open up a couple of new exits by turning the roulette wheel (TURN WHEEL). Go up
+and open the locker, then get and wear the space suit. Go down, west twice,
+southeast, and down to find the junk yard. Get the magnetic boots and wear them,
+then go up, northwest, and down.
+
+Open the airlock's inner door (OPEN INNER DOOR), then go down and close the
+inner door. Open the outer door and go down, then turn on the headlamp so you
+can see (TURN HEADLAMP ON). Get the cylinder, then preserve it in the thermos
+(PUT CYLINDER IN THERMOS. CLOSE THERMOS).
+
+
+*** STEP 7: Blow the safe and get the key. ***
+
+Turn the headlamp off, then go up. Close the outer door and open the inner door,
+then remove the space suit and magnetic boots, and drop them both. Be sure to
+save your game now, since Plato will zap you with a stun ray at some random
+point, and you don't want that to happen after you get the explosive and before
+you blow the safe open. If it does, restore this save and try again.
+
+Return to where you dropped your survival kit by going going up, southwest,
+northwest, north three times, and northwest. Get the kit, eat the orange goo,
+and drop the kit again. Go southeast twice and east to return to the commander's
+quarters, then open the thermos and take the explosive.
+
+Connect the explosive up to the timer and detonator (CONNECT TIMER TO DETONATOR.
+CONNECT DETONATOR TO EXPLOSIVE), then put the explosive into the hole you
+drilled in the safe (PUT EXPLOSIVE IN HOLE). Drop the timer, detonator, and
+thermos. Turn your headlamp on, then set the timer to 5 seconds (SET TIMER TO 5)
+and go west.
+
+Now that the safe is blown, two things will happen soon. One is that Plato will
+attack you with a stun ray, and the other is that the station's lights will go
+out. Your headlamp is already on, so just wait if necessary until Plato attacks.
+When he does, ask Floyd to help you (FLOYD, HELP), then wait until Plato gets
+blown up. Pick your zapgun back up, then go east and get the key from the blown-
+open safe.
+
+
+*** STEP 8: Gather a few last-minute items. ***
+
+Before you use your hard-earned key, there are a few items you'll need to
+gather. Go west, northwest twice, and north twice to the storage room. Get the
+jammer, then go east, north twice, and up. Get the twenty-prong fromitz board,
+and install it on the jammer (PUT BOARD IN JAMMER).
+
+Set the jammer to frequency 710 (SET JAMMER TO 710), then return to the village
+area's broadway by going down, south three times, southeast, and east three
+times. Go southeast to the barber shop, then smash its mirror (BREAK MIRROR) to
+reveal some foil. That's the last item you need, so take the foil.
+
+
+*** STEP 9: Find and destroy the evil pyramid creature. ***
+
+You now need to go up to level 1. To get there from the barber shop, go
+northwest, west twice, northwest, west, southwest, and up four times. Unlock the
+storage bin with the key from the safe (UNLOCK BIN), then open the bin to
+accidentally detonate the fuel cells that are stored in it.
+
+The explosion made you drop all your carried items, so get the zapgun, jammer,
+and foil. Next, remove the air shaft's now-loose grating (REMOVE GRATE), and
+climb into the shaft (ENTER AIR SHAFT). Go down until you reach the bottom of
+the shaft, then kick out the large floor grating (KICK GRATE).
+
+Turn on the jammer to mess up the exercise machine that attacks you (TURN JAMMER
+ON), then turn the jammer off again to get the exercise machine and forklift to
+wreck each other. Go up to reach the factory on level 8, then shoot that traitor
+Floyd with the zapgun (SHOOT FLOYD). Now all you have to do to win the game is
+destroy the pyramid with the PUT FOIL ON PYRAMID command.
+
+View in:
+GameFAQsfacebook.com/GFAQstwitter.com/GameFAQsHelp / Contact UsChange Colors
+
+gamespot.commetacritic.comfandom.comfanatical.com
+
+SitemapPartnershipsCareersTerms of UseDigital Services Act
+
+Privacy PolicyDo Not Sell My Personal InformationReport Ad
+
+© 2026 FANDOM, INC. ALL RIGHTS RESERVED.
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.Privacy Policy

@@ -1,0 +1,100 @@
+IN COMMANDER'S OFFICE! WAITING FOR AMBUSH AND BOMB...
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+WAIT
+   According to the Treaty of Gishen IV (amended after the Battle on Sorkin III
+in 11347 GY) you have the opportunity to restart the story, restore a saved
+position, or end this session of the game. In the interests of interstellar
+peace, type RESTART, RESTORE, or QUIT: 
+Traceback (most recent call last):
+  File "/home/computeruse/gemini-31-pro-games/stationfall/test_plato_ambush_walkthrough.py", line 74, in <module>
+    out = cmd("WAIT")
+          ^^^^^^^^^^^
+  File "/home/computeruse/gemini-31-pro-games/stationfall/test_plato_ambush_walkthrough.py", line 9, in cmd
+    def cmd(c): child.sendline(c); return w()
+                                          ^^^
+  File "/home/computeruse/gemini-31-pro-games/stationfall/test_plato_ambush_walkthrough.py", line 5, in w
+    idx = child.expect(['>', '\*\*\*MORE\*\*\*'])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/spawnbase.py", line 354, in expect
+    return self.expect_list(compiled_pattern_list,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/spawnbase.py", line 383, in expect_list
+    return exp.expect_loop(timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/expect.py", line 179, in expect_loop
+    return self.eof(e)
+           ^^^^^^^^^^^
+  File "/home/computeruse/.pyenv/versions/3.11.6/lib/python3.11/site-packages/pexpect/expect.py", line 122, in eof
+    raise exc
+pexpect.exceptions.EOF: End Of File (EOF). Exception style platform.
+<pexpect.pty_spawn.spawn object at 0x72c559d6b190>
+command: /usr/local/bin/dfrotz
+args: [b'/usr/local/bin/dfrotz', b'-s', b'32', b'/home/computeruse/gemini-31-pro-games/stationfall/s6.z3']
+buffer (last 100 chars): ''
+before (last 100 chars): 'WAIT\r\n'
+after: <class 'pexpect.exceptions.EOF'>
+match: None
+match_index: None
+exitstatus: None
+flag_eof: True
+pid: 848673
+child_fd: 5
+closed: False
+timeout: 30
+delimiter: <class 'pexpect.exceptions.EOF'>
+logfile: None
+logfile_read: None
+logfile_send: None
+maxread: 2000
+ignorecase: False
+searchwindowsize: None
+delaybeforesend: 0.05
+delayafterclose: 0.1
+delayafterterminate: 0.1
+searcher: searcher_re:
+    0: re.compile('>')
+    1: re.compile('\\*\\*\\*MORE\\*\\*\\*')
