@@ -1,6 +1,6 @@
 Using normal formatting.
 Loading /home/computeruse/infocom-rc2014/DAT/PLUNDERE.DAT.
-
+ Plundered Hearts                                 Score: 0        Moves: 0
 
 >SHOOT THE PIRATE
 Trembling, you fire the heavy arquebus. You hear its loud report over the
@@ -18,7 +18,7 @@ his kiss...
 your hair, "will protect you from me?"
 
 [Press RETURN or ENTER to begin.]
-
+ Cabin                                            Score: 0        Moves: 0
 
 PLUNDERED HEARTS
 Infocom interactive fiction
@@ -43,47 +43,47 @@ Cabin, on the bed
 porthole. A door is to starboard. Except for the built-in bed, the room seems to
 have been emptied thoroughly, if hurriedly.
 
->
+> Cabin                                            Score: 0        Moves: 1
 
 You get out of the bed.
-   "Aaieeee!" echoes a scream, followed by several grunts and thumps.
 
->
+> Cabin                                            Score: 0        Moves: 2
 
 You have your reticule (hanging from your wrist). It seems that your reticule
 contains smelling salts and a banknote. You are wearing your kid slippers, a
 linen chemise and a cotton frock.
 
->
+> Cabin                                            Score: 0        Moves: 3
 
 You can see a coffer under the bed.
 
->
+> Cabin                                            Score: 0        Moves: 4
 
 Taken.
 
->
+> Cabin                                            Score: 0        Moves: 5
 
 It is a small heavy chest, with a lock. It is closed.
+   "The Falcon! The Falcon conquers!" yells someone.
 
->
+> Cabin                                            Score: 0        Moves: 6
 
 You always carry your smelling salts, for emergencies. There is a small tag on
 one side of them.
    You recognize a voice from far away, "Don't take that! Look in the cabin at
 the stern -- you'll find some fun there!" It sounds like Davis.
 
->
+> Cabin                                            Score: 0        Moves: 7
 
 It says, "For cases of vapors, hysteria or collapse, revive persons with the
 smelling salts."
-   With a creak and a crash, somewhere a mast falls to the deck.
+   "Cap'n Jamison! We've got 'em!" cries a rough voice.
 
->
+> Cabin                                            Score: 0        Moves: 8
 
 This is the banknote that came in your game package.
 
->
+> Cabin                                            Score: 0        Moves: 9
 
 Cabin
    You are in an officer's cabin, lit by the firelight glowing through a
@@ -91,16 +91,16 @@ porthole. A door is to starboard. Except for the built-in bed, the room seems to
 have been emptied thoroughly, if hurriedly.
    Crash! You whirl around to see the door shatter, kicked by a hulking man, his
 twisted visage blackened with soot and blood. "Me name's Andy Crulley, and
-ladies learn to love me," sniggers the pirate, advancing toward you.
-   "The Falcon! The Falcon conquers!" yells someone.
+ladies learn to love me," sniggers the pirate.
+   "Aaieeee!" echoes a scream, followed by several grunts and thumps.
 
->
+> Cabin                                            Score: 0        Moves: 10
 
 With all your strength you whack the pirate over the head with the coffer.
    The pirate stumbles, dizzy. "Avast me, but ain't ye a beauty," slurs the
 pirate. His breath is heavy with rum.
 
->
+> Cabin                                            Score: 0        Moves: 11
 
 With all your strength you whack the pirate over the head with the coffer.
    Stunned, Crulley collapses at your feet, his eyes rolling.
@@ -112,7 +112,7 @@ through your veins. Then you realize how ragged are his shirt, patched breeches
 and high boots. Intuitively, you understand -- he is the dreaded Falcon, scourge
 of the sea! Alas, your fate is sealed. Resigned, you meet his sea-blue eyes.
 
->
+> Cabin                                            Score: 0        Moves: 12
 
 Time passes...
    To your surprise, the stranger bows. "Well met, my lady." His accent is
@@ -120,10 +120,9 @@ cultured, his smile vibrant. "I am Captain Nicholas Jamison, known in these
 waters as 'The Falcon'. Your father has sent me." He chuckles at your glare of
 distrust. "Yes, you are like your sire. You needn't believe me untried -- I
 carry this." He hands you a missive.
+   With a creak and a crash, somewhere a mast falls to the deck.
 
->
-
-The missive is in dear Papa's handwriting:
+>The missive is in dear Papa's handwriting:
 
 "Dearest child,
    You are in gravest danger! Lafond is a viper with the smile of a saint, my
@@ -142,8 +141,12 @@ and nudges the unconscious man on the floor, "I wonder how Crulley knew you were
 here? Just his bad luck? He'll be flogged when he wakes."
    The pirate bows. "My lady, may I offer my protection and my ship until your
 father is free?"
+   You recognize a voice from far away, "Don't take that! Look in the cabin at
+the stern -- you'll find some fun there!" It sounds like Davis.
 
->
+ Cabin                                            Score: 0        Moves: 13
+
+> Deck                                             Score: 0        Moves: 14
 
 You nod tentatively.
    He chuckles. "Brave lady, to trust a stranger -- and a pirate. Who knows,
@@ -182,17 +185,17 @@ Captain's Quarters, on the bed
    You are in the captain's quarters of the Helena Louise, where you have been
 trapped these past days since your "rescue" from the Lafond Deux. The room has a
 
-
+ Captain's Quarters                               Score: 0        Moves: 15
 
 masculine air, with ebony panelling, a large messy table, and a rumpled bed
 (upon which you lie). A curtain masks the forward exit and gilded woodwork
 decorates the sill of the tall window looking aft.
 
->
+> Captain's Quarters                               Score: 0        Moves: 16
 
 You get out of the bed.
 
->
+> Captain's Quarters                               Score: 0        Moves: 17
 
 You have a missive and your reticule (hanging from your wrist). It seems that
 your reticule contains smelling salts and a banknote. You are wearing your kid
@@ -202,7 +205,7 @@ like a guest at Lafond's dance tonight. I will find and free your father, and
 then finally wreak my revenge on Lafond." He half draws his rapier from its
 scabbard.
 
->
+> Captain's Quarters                               Score: 0        Moves: 18
 
 Time passes...
    "I am sorry you have been confined down here, but I don't trust my lonely
@@ -211,7 +214,7 @@ He smiles at you, eyes lingering, and takes your hand. You feel your color
 rising. "If anything goes wrong, turn to Cookie. He is quite deaf, but capable.
 He'll see you through."
 
->
+> Captain's Quarters                               Score: 0        Moves: 19
 
 Time passes...
    His look darkens. "You should know why I hate Lafond: Some years ago, as my
@@ -222,27 +225,27 @@ brother in the back as he tried to save the women. Lafond has now bought
 respectability, but he shall never buy peace." Jamison straightens resolutely,
 bows, and departs.
 
->
+> Captain's Quarters                               Score: 0        Moves: 22
 
 Time passes...
 
->
+> Captain's Quarters                               Score: 0        Moves: 23
 
 Captain's Quarters
    The room has a masculine air, with ebony panelling, a large messy table, and
 a rumpled bed. A curtain masks the forward exit and gilded woodwork decorates
 the sill of the tall window looking aft.
 
->
+> Captain's Quarters                               Score: 0        Moves: 24
 
 Tall panes of glass are inset into the ledge.
 
->
+> Captain's Quarters                               Score: 0        Moves: 25
 
 You pull the cloth aside momentarily. Behind it, a large cupboard mostly blocks
 the doorway.
 
->
+> Captain's Quarters                               Score: 0        Moves: 27
 
 Time passes...
    You hear the large cupboard scrape, and turn to see Captain Jamison. "Hello!
@@ -254,19 +257,19 @@ hand. "And I meant to reassure you that if the men suddenly abandon ship, they
 are off to help me. Rodney will stay behind with you." He drops the coffer on
 the floor, smiling in farewell, and walks swiftly away.
 
->
+> Captain's Quarters                               Score: 0        Moves: 28
 
 Taken.
 
->
+> Captain's Quarters                               Score: 0        Moves: 29
 
 Opening the coffer reveals an invitation.
 
->
+> Captain's Quarters                               Score: 0        Moves: 30
 
 Taken.
 
->
+> Captain's Quarters                               Score: 0        Moves: 31
 
 The invitation is addressed to "Davis":
 
@@ -279,7 +282,7 @@ Formal Dress and Invitation Required.
 
    A ball! You haven't been to a ball in months!
 
->
+> Landing                                          Score: 0        Moves: 32
 
 The large cupboard is not flush against the doorsill. You squeeze through the
 opening between cupboard and wall.
@@ -288,13 +291,13 @@ Landing
    You are on the landing of a steep stairway heading up and down. A large
 cupboard against the aft wall blocks the doorway to the captain's quarters.
 
->
+> Aft Hold                                         Score: 0        Moves: 33
 
 Aft Hold
    This is a gloomy, damp area at the bottom of the Helena Louise. To the fore
 there seems to be a little more light, or you can climb up some steep stairs.
 
->
+> Hold                                             Score: 0        Moves: 34
 
 You hear a scuffling noise ahead, and scraping up near the ceiling. You would
 think it was caused by rats, but for the definite curse you heard before all the
@@ -311,13 +314,13 @@ gunpowder and shot. A closed gate is the only way in.
 smoke. A tiny glow of fire creeps across a stretch of floor -- inside the cage
 full of ammunition.
 
->
+> Hold                                             Score: 0        Moves: 35
 
 The fence is made of thick, finely woven wire mesh, uncuttable and unclimbable.
 Except for a gap of about 6 inches over the closed gate, the cage is secure from
 ceiling to damp floorboards.
 
->
+> Crew's Quarters                                  Score: 0        Moves: 36
 
 Crew's Quarters
    The crew sleeps, in shifts, in this cramped space under the forecastle. A
@@ -330,7 +333,7 @@ bloodletting.
    A small bottle has been dropped nearby.
    A chipped piece of mirror sits propped on a shoulder-high timber.
 
->
+> Crew's Quarters                                  Score: 1        Moves: 37
 
 Taken.
    "I gotta let Lafond know 'e's comin'." Crulley stands on deck above, talking
@@ -339,17 +342,17 @@ in the mates aboard-ship, with this and t'other mischief," he grunts, and you
 hear a snapping noise, like a taut rope being cut. "Now to warn the boss and
 collect me pay. Off I go, har." He dives into the sea.
 
->
+> Crew's Quarters                                  Score: 1        Moves: 38
 
 Taken.
 
->
+> Hold                                             Score: 1        Moves: 39
 
 Hold
    A tiny glow of fire creeps across a stretch of floor -- inside the cage full
 of ammunition.
 
->
+> Hold                                             Score: 1        Moves: 40
 
 Hold
    Steep stairs lead up in the dimness to a canvas hatch above. Rats'
@@ -361,28 +364,28 @@ gunpowder and shot. A closed gate is the only way in.
    A tiny glow of fire creeps across a stretch of floor -- inside the cage full
 of ammunition.
 
->
+> Hold                                             Score: 1        Moves: 41
 
 You have a bit of mirror, a leather bottle, an invitation, a coffer, a jewelled
 brooch, a missive and your reticule (hanging from your wrist). It seems that
 your reticule contains smelling salts and a banknote. You are wearing your kid
 slippers, a linen chemise and a cotton frock.
 
->
+> Aft Hold                                         Score: 1        Moves: 42
 
 Aft Hold
 
->
+> Landing                                          Score: 1        Moves: 43
 
 Landing
 
->
+> Landing                                          Score: 1        Moves: 44
 
 Opened. It is a dark messy bed, set entirely within and filling the large
 cupboard. A cabin boy must sleep here when Jamison isn't using it. Kicked into a
 far corner is a pile of clothes.
 
->
+> Sleeping Cupboard                                Score: 1        Moves: 45
 
 Sleeping Cupboard
    The bed is softer than it looks, plumped up with fresh straw. A soft, if
@@ -390,56 +393,56 @@ somewhat cramped, bunk for the tall bulk of Jamison. The cupboard opens to the
 fore.
    Kicked into a far corner is a pile of clothes.
 
->
+> Sleeping Cupboard                                Score: 2        Moves: 46
 
 You pick up the pile of clothes. It separates into a pair of breeches and a
 shirt.
 
->
+> Landing                                          Score: 2        Moves: 47
 
 Landing
 
->
+> Captain's Quarters                               Score: 2        Moves: 48
 
 You squeeze through the opening between cupboard and wall.
 
 Captain's Quarters
 
->
+> Captain's Quarters                               Score: 2        Moves: 49
 
 Tall panes of glass are inset into the ledge.
+   The end of a rope ladder blows past the window.
 
->
+> Captain's Quarters                               Score: 3        Moves: 50
 
 You hurl the coffer through the window, sending it and a shower of glass into
 the sea. The ledge now looks deep enough to sit upon.
    The end of a rope ladder blows past the window.
 
->
+> Captain's Quarters                               Score: 3        Moves: 51
 
 You strip down to your chemise.
-   The end of a rope ladder blows past the window.
 
->
+> Captain's Quarters                               Score: 3        Moves: 52
 
 You tuck the linen chemise into the pants. You look a little fat, but now you
 can move freely.
-
->
-
-It fits loosely, masking your figure.
    The end of a rope ladder blows past the window.
 
->
+> Captain's Quarters                               Score: 3        Moves: 53
+
+It fits loosely, masking your figure.
+
+> Captain's Quarters                               Score: 3        Moves: 54
 
 You lean over the ledge, but the ladder is too far out to reach.
    The end of a rope ladder blows past the window.
 
->
+> Captain's Quarters                               Score: 3        Moves: 55
 
 You climb onto the ledge. The ladder drifts within reach.
 
->
+> On the Ladder                                    Score: 3        Moves: 56
 
 You put everything in your reticule and reach out for the ladder and over-
 balance, tumbling from your perch. Your hand closes on a slimy hemp rung as you
@@ -449,24 +452,24 @@ On the Ladder
    You are clinging to a slimy ladder, tied to a rail of the poop deck above
 you. Not far from your feet, waves kiss the stern of the ship.
 
->
+> On the Ladder                                    Score: 3        Moves: 57
 
 You climb up the ladder.
    All air is driven out of you as the ladder slams into the stern.
    Your eyes are drawn to a flicker of light off the sea. Squinting, you see a
 man swimming to shore, moonlight flashing off his hook.
 
->
+> On the Ladder                                    Score: 3        Moves: 58
 
 You climb up the ladder, passing the halfway point.
    Rebounding, the ladder twists you around to face the Helena Louise.
 
->
+> On the Ladder                                    Score: 3        Moves: 59
 
 You climb up the ladder.
    The ladder swings back towards the Helena Louise.
 
->
+> Poop                                             Score: 4        Moves: 60
 
 You heave yourself over the stern rail and sink breathless to the deck of the
 Helena Louise.
@@ -478,7 +481,7 @@ deck in any direction but to the fore. A rope ladder is tied to the railing at
 the stern of the ship.
    The reefs seem a little larger than you thought before.
 
->
+> Quarterdeck                                      Score: 4        Moves: 61
 
 Quarterdeck
    No torches are lit, or needed on this moonlit night, except in the deep
@@ -488,7 +491,7 @@ quietly. Under the stairs aft to the poop is a barred door.
    Abaft the wheel sits a large pyramid of casks, held in place by a heavy rope.
    Cannon line the deck, aimed at open sea and the island.
 
->
+> Main Deck                                        Score: 4        Moves: 62
 
 Main Deck
    It is a deceptively quiet evening on the ship, the pirates singing low
@@ -498,7 +501,7 @@ rigging hangs down from the mast, like many rope ladders woven together.
    The reefs seem a little larger than you thought before.
    Two large barrels stand near the stair to the foredeck.
 
->
+> Forecastle                                       Score: 4        Moves: 63
 
 Forecastle
    Higher than all but the poop deck, this end of the ship commands a good view
@@ -512,7 +515,7 @@ mast.
    The reefs seem a little larger than you thought before.
    You can see a mooring winch here.
 
->
+> Forecastle                                       Score: 4        Moves: 64
 
 Made of an old barrel turning on a pole, the mooring winch is used to coil in
 the anchor chain. A pair of metal teeth bite the links to prevent it from
@@ -520,19 +523,19 @@ dragging out; a lever is connected to the teeth. Something is written on the
 lever.
    The reefs are definitely getting larger.
 
->
+> Forecastle                                       Score: 4        Moves: 65
 
 On the lever is written "Open Up, Close Down." You notice the lever is pointed
 down.
 
->
+> Forecastle                                       Score: 5        Moves: 66
 
 The metal teeth open as you raise up the lever. The anchor, released, splashes
 down into the sea, dragging its clanking chain. After a moment, you feel the
 ship pull slightly against the current. You lower the lever to prevent any more
 chain from spooling out.
 
->
+> Galley                                           Score: 5        Moves: 67
 
 Galley
    This tiny kitchen smells of old stew and yeast. A low door to starboard shows
@@ -545,22 +548,22 @@ he only has to signal from that seaward winder of the house -- ye can see it
 from the crow's nest -- and we'll be there in a jiffy. Me and my peg are to stay
 aboard and guard y--, the Cap'n's young lady."
 
->
+> Galley                                           Score: 5        Moves: 68
 
 Taken.
    With a heave and creak of timbers, the Helena Louise drifts a little way back
 towards the island. The tide has turned.
 
->
+> Forecastle                                       Score: 5        Moves: 69
 
 Forecastle
    You can see a mooring winch here.
 
->
+> Main Deck                                        Score: 5        Moves: 70
 
 Main Deck
 
->
+> Main Deck                                        Score: 5        Moves: 71
 
 Main Deck
    It is a deceptively quiet evening on the ship, the pirates singing low
@@ -569,31 +572,31 @@ casts an inky shadow over the canvas screening the hatch. A tangled mass of
 rigging hangs down from the mast, like many rope ladders woven together.
    Two large barrels stand near the stair to the foredeck.
 
->
+> Main Deck                                        Score: 5        Moves: 72
 
 The two open barrels contain rum and water, you can tell by the smell of each.
 They are identical but for the dark stains around the mouth of the rum barrel.
 
->
+> Main Deck                                        Score: 5        Moves: 73
 
 You pull a corner of canvas out of the frame. Steep stairs descend into murky
 darkness.
 
->
+> Main Deck                                        Score: 5        Moves: 74
 
 It is your favorite old frock, looking rather bedraggled without its hoops,
 which you hadn't time to put on during the pirate attack. The worn fabric of the
 skirt often catches on things, tearing.
 
->
+> Main Deck                                        Score: 5        Moves: 75
 
 You cut a large rag out of the cotton frock.
 
->
+> Main Deck                                        Score: 5        Moves: 76
 
 Keeping hold on the rag, you soak it with water.
 
->
+> Hold                                             Score: 5        Moves: 77
 
 You glance around to see that no one is watching, and duck through the open
 corner of the canvas hatch.
@@ -602,30 +605,30 @@ Hold
    A tiny glow of fire creeps across a stretch of floor -- inside the cage full
 of ammunition.
 
->
+> Hold                                             Score: 6        Moves: 78
 
 You throw the rag over the gate. Luckily, it lands directly on the burning end
 of the fuse. With a sputter and a sigh, the flame dies.
 
->
+> Main Deck                                        Score: 6        Moves: 79
 
 You slip lithely through the canvas hatch.
 
 Main Deck
 
->
+> Quarterdeck                                      Score: 6        Moves: 80
 
 Quarterdeck
    Abaft the wheel sits a large pyramid of casks, held in place by a heavy rope.
    Cannon line the deck, aimed at open sea and the island.
 
->
+> Quarterdeck                                      Score: 6        Moves: 81
 
 You crawl into the cask, feeling a slab of something stuck on the bottom. From
 this close, you can see the line is getting frayed where it rubs against the
 cask.
 
->
+> Lagoon                                           Score: 7        Moves: 82
 
 [with the dagger]
 The line snaps, and the pyramid collapses into dozens of tumbling casks. Your
@@ -638,12 +641,12 @@ Lagoon, in the cask
 gray-green in the light of the full moon.
    It seems that the cask contains a slab of pork.
 
->
+> Lagoon                                           Score: 7        Moves: 83
 
 You peel it off the cask.
    The current pulls you in towards the island.
 
->
+> Lagoon                                           Score: 7        Moves: 84
 
 Time passes...
    The current pulls you in towards the island.
@@ -651,12 +654,12 @@ Lagoon, in the cask
    You are crouched in a cask on the lagoon of St. Sinistra. The jungle looms
 gray-green in the light of the full moon.
 
->
+> Lagoon                                           Score: 7        Moves: 85
 
 Time passes...
    The current pulls you in towards the island.
 
->
+> Shallows                                         Score: 7        Moves: 86
 
 Time passes...
    The current pulls you in towards the island. With a scrape, the cask lodges
@@ -667,19 +670,19 @@ Shallows, in the cask
 white sand beach is west of you.
    A skiff nods in the waves, its oars jerking around in the current.
 
->
+> Shallows                                         Score: 7        Moves: 87
 
 Free of your weight, the cask bobs and spins in the current, pulled out into the
 lagoon. You splash after it, but it is gone.
 
->
+> Beach                                            Score: 7        Moves: 88
 
 Beach
    This is a tiny beach, at the base of vine-covered cliffs. To the east, the
 Helena Louise floats serenely on the lagoon.
    Immediately north of you, a rocky staircase is hewn into the cliff.
 
->
+> Lawn                                             Score: 7        Moves: 89
 
 Lawn
    Jungle looms around this clipped lawn, a path meandering westward into the
@@ -692,7 +695,7 @@ dead... girl... Falcon on Sinistra." The men separate, the well-dressed one
 going into the ballroom as the other slinks into the bushes. You see his face.
 Crulley!
 
->
+> Folly                                            Score: 7        Moves: 90
 
 Folly
    Perfumed by the heady odor of the night-blooming jasmine entwined in the
@@ -700,7 +703,7 @@ bamboo latticework, this folly is a cool, dark haven.
    One bamboo slat at the back seems to be loose.
    A bench is built into the wall, circling the folly.
 
->
+> Folly                                            Score: 7        Moves: 91
 
 You twist aside the loose slat, wedging the end into the woven wall. The
 remaining hole, just above the bench, looks big enough to snake yourself
@@ -712,14 +715,14 @@ are, my dear. And so ingeniously dressed." He plucks a flower from the tangle
 above the door, and sets it in your hair. "The beauty of this blossom is nothing
 to yours."
 
->
+> Folly                                            Score: 7        Moves: 92
 
 "Crulley?! God's blood!"
    Catching his breath, Jamison pulls you against him, his hands circling your
 waist, crushing the flower between you. "Darling," he whispers, leaning over
 you, "oh, my angel ..."
 
->
+> Folly                                            Score: 7        Moves: 93
 
 Time passes...
    "My lovely," Jamison says huskily. His eyes burn intently, their blue like
@@ -728,14 +731,14 @@ at his touch. The pirate's hands, warm and exciting, caress you, searing through
 the thin linen of your chemise. His lips near yours, his breath softly scented.
 "May I kiss you?"
 
->
+> Folly                                            Score: 7        Moves: 94
 
 Breathless, eager, you lean into him.
    Tender is his kiss, soft his lips as his body presses hard against you. You
 drown in the tide of your passion, swept like the sea against the rocks of the
 shore.
 
->
+> Folly                                            Score: 7        Moves: 95
 
 Time passes...
    With a pent-up sigh, Nicholas forces himself away from you. "Now is not the
@@ -743,11 +746,11 @@ time or the place to advance my suit," he says, wistfully. "But the night is
 still young and you are so beautiful! I must be gone, lest I lose my soul in
 you." With an engaging smile he bows and leaves the folly.
 
->
+> Lawn                                             Score: 7        Moves: 96
 
 Lawn
 
->
+> Forest                                           Score: 7        Moves: 97
 
 Forest
    Buried in the subtropical undergrowth, you lose all sense of being on
@@ -755,14 +758,14 @@ someone's private estate; jungle seems to extend for miles on all sides of you.
 A footworn path curves from east to north here, and the vegetation lessens to
 the northeast.
 
->
+> Trade Entrance                                   Score: 7        Moves: 98
 
 Trade Entrance
    You are on a well-trampled lawn at the side of the house, one low doorway
 leading in to the east. Gravelled paths lead north and south into the
 undergrowth.
 
->
+> Kitchen                                          Score: 7        Moves: 99
 
 Kitchen
    A firepit in the floor smokes badly, fogging up the depths of this large
@@ -773,36 +776,36 @@ village, boy? Dost know Lord Dimsford?" She sighs at your surprise. "So he sent
 you -- I am his Lucy. It's been so long since I've seen him. Lafond caught me
 eavesdropping and now I can't leave the grounds."
 
->
+> Kitchen                                          Score: 7        Moves: 100
 
 Time passes...
    "I haven't found Lafond's papers, I'm watched too closely. Tell Dimsford that
 I -- I'm scared, and I want him to come get me. Give this to him -- he'll
 recognize it." Lucy slides a garter down her leg and holds it out to you.
 
->
+> Kitchen                                          Score: 7        Moves: 101
 
 Taken.
    Lucy kisses your head and returns to the fire, humming.
 
->
+> Trade Entrance                                   Score: 7        Moves: 102
 
 "Don't forget -- tell Dimsford," Lucy calls after you.
 
 Trade Entrance
 
->
+> Forest                                           Score: 7        Moves: 103
 
 Forest
 
->
+> Clearing                                         Score: 7        Moves: 104
 
 Clearing
    You are in a small clearing under the western side of the house. Heavy vines
 creep up the wall past a second floor window, open to the night air. Southwest
 is an opening in the bushes.
 
->
+> Bedroom                                          Score: 7        Moves: 105
 
 You take a firm grasp on a particularly thick tendril, jerk once to secure it,
 and scamper up the wall like some huge tropical spider. It is easy to climb
@@ -814,33 +817,33 @@ as a ladies' dressing room. An exit lies to the north.
    Draped across the bed is a lovely cream colored watered silk gown. It looks
 about your size.
 
->
+> Bedroom                                          Score: 7        Moves: 106
 
 You strip down to your chemise.
 
->
+> Bedroom                                          Score: 7        Moves: 107
 
 Taken.
 
->
+> Bedroom                                          Score: 8        Moves: 108
 
 The beautiful ball gown fits perfectly, the creamy silk bringing a glow to your
 cheeks. You comb your hair with your fingers and bite your lips to make them
 red.
 
->
+> Upstairs Hall                                    Score: 8        Moves: 109
 
 Upstairs Hall
    You stand in a carpeted hallway, leading east to a stair landing. Rooms lie
 north and south of you.
 
->
+> Stair Landing                                    Score: 8        Moves: 110
 
 Stair Landing
    The east-west hallway opens here to curve into a grand staircase sweeping
 down to the foyer.
 
->
+> Foyer                                            Score: 8        Moves: 111
 
 Foyer
    A grandiose staircase splits and twists up to the next floor here, framing
@@ -848,15 +851,15 @@ the entrance south to the ballroom. Long hallways lead east and west; cool night
 air drifts in through the front door, north of you.
    The butler stands near the entrance to the ballroom.
 
->
+> Foyer                                            Score: 8        Moves: 112
 
 The butler prevents you. "Miss... your invitation?"
 
->
+> Foyer                                            Score: 9        Moves: 113
 
 The butler takes the invitation. "Enjoy the dance, Miss Davis."
 
->
+> Ballroom                                         Score: 9        Moves: 114
 
 The sea of spectators parts to admit you, murmuring approval.
 
@@ -868,54 +871,51 @@ nor through the opening east. The foyer is north of you.
    Captain Jamison moves up to you, saying, "May I have this dance?" He doesn't
 await an answer, sweeping you out onto the dance floor.
 
->
+> Ballroom                                         Score: 9        Moves: 115
+
+Time passes...
+   Nicholas's hands are smooth and cool.
+   The steps of the dance separate you a moment, as you twirl around and curtsey
+to another dancer. You glide back into the captain's arms.
+
+> Ballroom                                         Score: 9        Moves: 116
 
 Time passes...
    "I haven't found your father. We've long suspected a passage under the
 library, but I cannot find an entrance," says Jamison.
-   The steps of the dance separate you a moment, as you twirl around and curtsey
-to another dancer. You glide back into the captain's arms.
-
->
-
-Time passes...
-   "If there is any trouble, and I am unable to help -- a signal from an
-upstairs seaward window will bring my men. They can be here in moments," the
-Captain says.
    Your hands linked tightly with his and held high over your heads, a line of
 dancers files between you and Jamison.
 
->
+> Ballroom                                         Score: 9        Moves: 117
 
 Time passes...
-   "I wish you would call me 'Nicholas' -- I feel I know you much better than
-our brief acquaintance would allow." He presses your hand.
+   His eyes twinkle, like moonlight on the sea.
    Together you whirl around the ballroom, his arm snug around your waist,
 leading you gracefully, masterfully.
     Nicholas's grip tenses as he nods to a bewigged man staring at you. You
 turn, and the man moves on.
 
->
+> Ballroom                                         Score: 9        Moves: 118
 
 Time passes...
-   Nicholas's hands are smooth and cool.
+   The blue of the captain's eyes seems to deepen, looking at you.
    The music ends with a flourish and you pirouette once more before curtseying
 to Jamison. As you move to the side of the dance floor, Nick adds, "We should
 separate -- I'm sure I am being watched. You would be safer aboard the Helena
 Louise. If you slip out the veranda doors, no one will notice you leaving." He
 touches your hand and dissolves into the crowd.
 
->
+> Ballroom                                         Score: 9        Moves: 119
 
 Opened.
 
->
+> Veranda                                          Score: 9        Moves: 120
 
 Veranda
    Steps lead south from this white marble veranda to a clipped lawn. To the
 north a line of people blocks your view of the ballroom.
 
->
+> Ballroom                                         Score: 9        Moves: 121
 
 The sea of spectators parts to admit you, murmuring approval.
 
@@ -924,13 +924,13 @@ Ballroom
 dance?" he asks, with a light French accent. "Not that you have much choice. If
 you turn me down, your father dies."
 
->
+> Ballroom                                         Score: 9        Moves: 122
 
 You summon a gracious smile, "Why yes, I'd love to."
    "I am, of course, Lafond." He laughs triumphantly and pulls you into the
 dance.
 
->
+> Ballroom                                         Score: 9        Moves: 123
 
 Time passes...
    "So you know I am not your father's friend," Lafond says, offering a hand for
@@ -938,7 +938,7 @@ the promenade. "Unfortunately, you are in my power, he is in my dungeon and I am
 still King of these waters." A gold ring flashes on his hand. It seems vaguely
 familiar.
 
->
+> Ballroom                                         Score: 10       Moves: 124
 
 It's an ancient gold band, with a curious design of gargoyles, curled tongues
 extended, on its flat face, with "Sal Sapit Omnia" engraved at the bottom.
@@ -950,13 +950,13 @@ your father credited you. He swore you would have him freed in no time at all. A
 pity, I prefer doyennes with mettle." He moves to speak with the butler, then
 drifts into the crowd.
 
->
+> Supper Room                                      Score: 10       Moves: 125
 
 Supper Room
    One long table set across the north entrance indicates that supper was served
 here earlier. West of you is the ballroom.
 
->
+> East Hallway                                     Score: 10       Moves: 126
 
 You scuttle underneath the long table.
 
@@ -964,7 +964,7 @@ East Hallway
    The carpeted hallway turns from west to north here, extending into the east
 wing. A long table blocks the way south.
 
->
+> Library                                          Score: 10       Moves: 127
 
 Library
    Everything in this private office is larger than life. A huge portrait
@@ -973,33 +973,33 @@ over a cherry desk, and a massive wooden globe squats in a corner. Music wafts
 distantly from the ballroom across the hall to the south.
    An expensive hat is hanging on a knob.
 
->
+> Library                                          Score: 10       Moves: 128
 
 As you lift the hat from its knob on the wall, a low vibration tingles up your
 legs from the floor.
 
->
+> Library                                          Score: 10       Moves: 129
 
 Most of the books appear unread, their pages uncut, the spines not yet creased.
 All except one, "Treatise of Power" by Sir Michael Villiers.
 
->
+> Library                                          Score: 11       Moves: 130
 
 You half tip the book out of the shelf when it snaps surprisingly back into
 place. There is a mysterious scraping sound from inside the wall.
 
->
+> Library                                          Score: 11       Moves: 131
 
 The massive wooden globe, painted in greens and blues and white, describes the
 world as presently known.
 
->
+> Library                                          Score: 12       Moves: 132
 
 You press the painted island, and it sinks into the wooden sea. You hear a whirr
 and a click and the portrait pops open. A draft of sea-scented air flows in from
 behind it.
 
->
+> Stairwell                                        Score: 12       Moves: 133
 
 For safety's sake, you leave the hat on its knob. Best not to show that you've
 been wandering.
@@ -1009,23 +1009,23 @@ Stairwell
    Cool salt air, blowing past a torch on a spiral staircase below you, ruffles
 your hair and circles south into the library.
 
->
+> Stairwell                                        Score: 12       Moves: 134
 
 The portrait swings shut with a tiny snap.
 
->
+> Bottom of Stairwell                              Score: 12       Moves: 135
 
 Bottom of Stairwell
    Flickering torchlight lights the bottom of a spiral staircase. A draft blows
 from the east; a passage leads south.
 
->
+> North Passage                                    Score: 12       Moves: 136
 
 North Passage
    A strong wet breeze blows from a low doorway to the east. A circle of light
 leads west. The passageway continues south.
 
->
+> Guard's Bunkroom                                 Score: 12       Moves: 137
 
 Guard's Bunkroom
    Once a cell, now, with the door missing, made into a guard's bunkroom, this
@@ -1034,48 +1034,48 @@ seaward wall of the room. The way out is west of you.
    A powder horn hangs on a long strap from the wall.
    A canvas cot is shoved against a wall. Sitting on the cot is a large key.
 
->
+> Guard's Bunkroom                                 Score: 13       Moves: 138
 
 powder horn: Taken.
 large key: Taken.
 
->
+> North Passage                                    Score: 13       Moves: 139
 
 North Passage
 
->
+> South Passage                                    Score: 13       Moves: 140
 
 South Passage
    You are at the far end of a dank passageway heading north. A wooden door
 leads east.
 
->
+> South Passage                                    Score: 13       Moves: 141
 
 Opened.
 
->
+> Cell                                             Score: 13       Moves: 142
 
 Cell
    This tiny cell is airless and shivering cold, entirely empty of anything but
 darkness. A wooden door leads west.
 
->
+> South Passage                                    Score: 13       Moves: 143
 
 South Passage
 
->
+> South Passage                                    Score: 13       Moves: 144
 
 Shut.
 
->
+> North Passage                                    Score: 13       Moves: 145
 
 North Passage
 
->
+> Bottom of Stairwell                              Score: 13       Moves: 146
 
 Bottom of Stairwell
 
->
+> Anteroom                                         Score: 13       Moves: 147
 
 Anteroom
    Two exits lead from this cavernous room, north and south. The walls drip with
@@ -1083,36 +1083,36 @@ wet, forming a huge pool on the floor.
    A crocodile lies half in the pool, gazing at you, with baleful eyes, jaws
 wide open. Dagger-sharp teeth glint in the torchlight.
 
->
+> Anteroom                                         Score: 13       Moves: 148
 
 It's a small leather bottle, with a tiny label on one side. It appears to be
 almost empty.
 
->
+> Anteroom                                         Score: 13       Moves: 149
 
 The label reads, "Laudanum drops. Squeeze into a glass of wine to sleep free of
 pain and mental anguish."
 
->
+> Anteroom                                         Score: 13       Moves: 150
 
 You squeeze three colorless drops onto the slab of pork. A patch of salt
 dissolves as the laudanum absorbs into the meat.
 
->
+> Anteroom                                         Score: 13       Moves: 151
 
 The crocodile snaps its jaws shut as the slab of pork disappears into its maw.
 
->
+> Anteroom                                         Score: 13       Moves: 152
 
 Time passes...
    With an inaudible creak, the crocodile's mouth opens again.
 
->
+> Anteroom                                         Score: 14       Moves: 155
 
 Time passes...
    Without warning, the crocodile relaxes, eyes closed, asleep.
 
->
+> Dungeon                                          Score: 14       Moves: 156
 
 You edge past the reptile.
 
@@ -1123,20 +1123,20 @@ wall, casts mad licks of light into the darkness. Passages lead north and west.
 Set deep in the rocky floor is a closed trapdoor.
    A pair of manacles hangs from iron chains attached high on the wall.
 
->
+> Corner                                           Score: 14       Moves: 157
 
 Corner
    This short passage turns from east to north to stop abruptly at an iron door.
 
->
+> Corner                                           Score: 14       Moves: 158
 
 Unlocked.
 
->
+> Corner                                           Score: 14       Moves: 159
 
 Opened.
 
->
+> Cell                                             Score: 15       Moves: 160
 
 Cell
    Hewn from dense rock, the cell is a stagnant burrow. Except for the tiniest
@@ -1146,7 +1146,7 @@ rushing into his arms.
    "Why, hullo, my dear." He hugs you tightly. "Nick certainly took his time
 about fetching you."
 
->
+> Cell                                             Score: 15       Moves: 161
 
 Time passes...
    You briefly explain the current situation to your father.
@@ -1155,17 +1155,17 @@ responds. "Now to rescue Lucy -- Nicholas will have told you about her. You get
 him while I get Lucy, and the four of us will meet down at the beach. Just show
 me the way out of this maze, and we'll get started."
 
->
+> Corner                                           Score: 15       Moves: 162
 
 Corner
    Papa follows you.
 
->
+> Dungeon                                          Score: 15       Moves: 163
 
 Dungeon
    Papa mutters something to himself. You hear an occasional "Zounds!"
 
->
+> Anteroom                                         Score: 15       Moves: 164
 
 Anteroom
    The crocodile lies half in the pool, sleeping.
@@ -1176,31 +1176,31 @@ you sleep like this before." It stirs to life as your father walks over to you
 by the north entrance. The reptile, waking, lunges after him, choking on its
 chain.
 
->
+> Bottom of Stairwell                              Score: 15       Moves: 165
 
 Bottom of Stairwell
-   Papa enters just a few steps behind you.
+   Papa follows you.
 
->
+> Stairwell                                        Score: 15       Moves: 166
 
 Stairwell
-   Papa mutters something to himself. You hear an occasional "Zounds!"
+   Papa enters just a few steps behind you.
 
->
+> Stairwell                                        Score: 15       Moves: 167
 
 You push outwards on the wall, opening the portrait.
 
->
+> Library                                          Score: 15       Moves: 168
 
 You move beyond the portrait into the library.
 
 Library
    An expensive hat is hanging on a knob.
-   Papa follows you.
+   Papa mutters something to himself. You hear an occasional "Zounds!"
    "A window!" your father exclaims. "I shall creep out to the kitchen. Get the
 Falcon." He climbs out the window.
 
->
+> Foyer                                            Score: 15       Moves: 169
 
 The portrait swings shut with a tiny snap.
    There is a commotion from the west. A woman screams and a man yells, "Stop,
@@ -1214,44 +1214,44 @@ officer marches after his men. The dancers return to their banal conversations.
 Foyer
    The butler stands near the entrance to the ballroom.
 
->
+> Stair Landing                                    Score: 15       Moves: 170
 
 Stair Landing
 
->
+> Upstairs Hall                                    Score: 15       Moves: 171
 
 Upstairs Hall
 
->
+> Bedroom                                          Score: 15       Moves: 172
 
 Bedroom
 
->
+> Bedroom                                          Score: 15       Moves: 174
 
 Time passes...
    The butler walks up to you. "M. Lafond requests your presence in his room
 immediately, Miss." He points to the east, bows, and leaves.
 
->
+> Upstairs Hall                                    Score: 15       Moves: 175
 
 Upstairs Hall
 
->
+> Stair Landing                                    Score: 15       Moves: 176
 
 Stair Landing
 
->
+> Upstairs Hall                                    Score: 15       Moves: 177
 
 Upstairs Hall
    You stand in a carpeted hallway, leading west to a stair landing. To the
 north is an ornately carved door. From the south comes the impression of light
 and air.
 
->
+> Upstairs Hall                                    Score: 15       Moves: 178
 
 Opened.
 
->
+> Lafond's Bedroom                                 Score: 16       Moves: 179
 
 "Welcome, ma petite." Lafond bows you in.
 
@@ -1262,7 +1262,7 @@ Sitting on the table is a green goblet, a blue goblet and a flagon.
    "Have some wine." Lafond pours wine into two glasses, giving a blue one to
 you. "Drink this down. We have a long night ahead of us." He drains his own.
 
->
+> Lafond's Bedroom                                 Score: 16       Moves: 180
 
 You empty the blue goblet of wine.
    "Good girl," he says, "Let's see more cooperation of this sort."
@@ -1277,13 +1277,13 @@ stay nearby. I do not wish to be disturbed again.
 more comfortable. Pour me more wine." He crosses to the wardrobe removing his
 coat and vest, turned slightly away from you.
 
->
+> Lafond's Bedroom                                 Score: 16       Moves: 181
 
 You fill the blue goblet with wine.
    "In private, call me Jean, or whatever endearment you choose, once I have
 approved it." Lafond is looking into the wardrobe.
 
->
+> Lafond's Bedroom                                 Score: 16       Moves: 182
 
 You squeeze three colorless drops into the blue goblet. You sense Lafond
 hesitate, then continue primping.
@@ -1293,14 +1293,14 @@ myself." He bows and leaves the room.
    "Sprinkle some spices on the fowl, ma petite," Lafond says, donning a long
 brocade robe, his back to you. "They are hot, but delicious."
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 183
 
 You roll the bit of mirror around in the beam of moonlight till it glows silver-
 white. After a moment, a flash of light responds from the Helena Louise.
    "Tsk. The cook has gone too far. She shall be 'leaving us' tomorrow." Lafond
 adjusts the lace at his neck.
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 184
 
 Time passes...
    Lafond strolls to the table smiling slyly. "But you haven't finished pouring
@@ -1308,7 +1308,7 @@ the wine." He tops off both glasses. "Which glass was mine? I seem to have
 forgotten." He points at the green goblet and smiles in a way that does not
 grant you confidence. "Is this it?"
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 185
 
 You nod.
    "Ah yes, of course." Lafond obligingly takes the green goblet.
@@ -1318,7 +1318,7 @@ of these glasses -- although I cannot smell it." He switches goblets, setting
 the green goblet into your nerveless grasp and taking up the other, smiling
 evilly. "Now you will drink from the cup intended for me."
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 186
 
 You empty the green goblet of wine.
    "Good girl," he says. Lafond takes the leather bottle and drops it out the
@@ -1328,32 +1328,32 @@ meddling in other people's business, is not a fool. I doubt you are, either." He
 calls in the butler, ordering him to empty the blue goblet. The man reports no
 odd taste and returns to his post.
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 187
 
 Time passes...
    Lafond draws near, whispering indecencies. He caresses your lily white neck,
 his fingers ice-cold despite the tropic heat.
 
->
+> Lafond's Bedroom                                 Score: 17       Moves: 188
 
 Time passes...
    Lafond slides his hand up your neck and into your hair, letting it fall down
 your back in thick waves and tresses. He lays everything you carry on the floor.
 
->
+> Lafond's Bedroom                                 Score: 18       Moves: 189
 
 Time passes...
    One by one Lafond undoes your buttons. He pulls open your bodice. Your
 clothes float to the floor.
    You hear a "thump-phoosh," like someone slumping against a wall.
 
->
+> Lafond's Bedroom                                 Score: 18       Moves: 190
 
 You take a pinch of spices between your thumb and forefinger.
    Lafond runs his fingers down your naked spine, and compliments your body. He
 removes his dressing gown.
 
->
+> Lafond's Bedroom                                 Score: 19       Moves: 191
 
 You blow the spices off your fingertips, directly into Lafond's face. He
 sneezes, his eyes watering from the heat of the peppers. Reaching blindly for
@@ -1361,14 +1361,14 @@ some wine, he instead upsets the table, shattering a glass. Lafond stumbles
 cursing out of the room, in search of relief. You stand up, quickly pulling on
 the linen chemise.
 
->
+> Upstairs Hall                                    Score: 19       Moves: 192
 
 You creep over the prostrate butler.
 
 Upstairs Hall
    The butler lies on the floor, prone and snoring loudly.
 
->
+> Lafond's Bedroom                                 Score: 19       Moves: 193
 
 Lafond's Bedroom
    A lace-covered table crouches beside a wing-backed chair in one corner.
@@ -1376,7 +1376,7 @@ Sitting on the table is a silver tray and a flagon.
    You can see a beautiful ball gown, breeches, a shirt, a flower, a garter, a
 powder horn, a large key, a bit of mirror and a green goblet here.
 
->
+> Lafond's Bedroom                                 Score: 19       Moves: 194
 
 beautiful ball gown: Taken.
 breeches: Taken.
@@ -1390,60 +1390,60 @@ green goblet: Taken.
 silver tray: Taken.
 flagon: Taken.
 
->
+> Upstairs Hall                                    Score: 19       Moves: 195
 
 You creep over the prostrate butler.
 
 Upstairs Hall
    The butler lies on the floor, prone and snoring loudly.
 
->
+> Stair Landing                                    Score: 19       Moves: 196
 
 Stair Landing
    An eerie battle cry arises on the wind, from all sides of the house, and
 Jamison's men stream in from all directions, huddling the dancers in the middle
 of the ballroom.
 
->
+> Foyer                                            Score: 19       Moves: 197
 
 Foyer
    Cookie rushes up to you, looking worried. "Miss, we must find the Cap'n. Have
 ye any idea where to look?"
 
->
+> Foyer                                            Score: 19       Moves: 198
 
 "Foller you? Anywheres!"
    Cookie urges you, "Think agin. Any idea?"
 
->
+> East Hallway                                     Score: 19       Moves: 199
 
 East Hallway
    Cookie pegs after you.
    Cookie grins broadly, "I knew we could depend on you, lass. Lead on!"
 
->
+> Library                                          Score: 19       Moves: 200
 
 Library
    An expensive hat is hanging on a knob.
    Cookie pegs after you.
 
->
+> Library                                          Score: 19       Moves: 201
 
 As you lift the hat from its knob on the wall, a low vibration tingles up your
 legs from the floor.
 
->
+> Library                                          Score: 19       Moves: 202
 
 You half tip the book out of the shelf when it snaps surprisingly back into
 place. There is a mysterious scraping sound from inside the wall.
 
->
+> Library                                          Score: 19       Moves: 203
 
 You press the painted island, and it sinks into the wooden sea. You hear a whirr
 and a click and the portrait pops open. A draft of sea-scented air flows in from
 behind it. Cookie harrumphs, surprised.
 
->
+> Stairwell                                        Score: 19       Moves: 204
 
 For safety's sake, you leave the hat on its knob. Best not to show that you've
 been wandering.
@@ -1452,12 +1452,12 @@ been wandering.
 Stairwell
    Cookie pegs after you.
 
->
+> Bottom of Stairwell                              Score: 19       Moves: 205
 
 Bottom of Stairwell
    Cookie pegs after you.
 
->
+> Anteroom                                         Score: 19       Moves: 206
 
 Anteroom
    The crocodile lies half in the pool, gazing at you, with baleful eyes, jaws
@@ -1467,7 +1467,7 @@ wide open. Dagger-sharp teeth glint in the torchlight.
 sweetheart. You run by and do what you must do." He dives headlong into the
 pool.
 
->
+> Dungeon                                          Score: 19       Moves: 207
 
 A whip cracks the air. "Flogs me, will ye, Cap'n? Taste it yourself, har."
 Jamison groans, half conscious. You rush in.
@@ -1482,21 +1482,21 @@ Set deep in the rocky floor is an open trapdoor.
    Crulley steps leering out of the shadows and cracks the whip near you,
 hopping you towards the open trapdoor. "Come to hit me agin, are ye?"
 
->
+> Dungeon                                          Score: 19       Moves: 208
 
 Taken. Crulley snorts, "Be careful, you might hurt yer dearie."
    Crulley cracks the whip near you, hopping you towards the open trapdoor.
-"Leave yer honey be, wench. He'll join ye anon."
+"Ye're a tasty doxy to let slip, but no 'elp fer it."
 
->
+> Dungeon                                          Score: 19       Moves: 209
 
 Crulley seems more amazed than frightened of your attack, guessing correctly
 that you hardly know the tip from the hilt of the rapier. He steps sideways in
 surprise, so he stands at the edge of the trapdoor.
    Crulley cracks the whip near you, hopping you towards the open trapdoor.
-"What, afrighted of a lick o' the whip?"
+"Leave yer honey be, wench. He'll join ye anon."
 
->
+> Dungeon                                          Score: 20       Moves: 210
 
 You flick the rapier across his chest, barely scratching him. He cries, "Avast
 me! Pricked by a woman!" and trips into the trapdoor.
@@ -1504,11 +1504,11 @@ me! Pricked by a woman!" and trips into the trapdoor.
 the rocks a few yards down. He curses and starts to climb up the sheer slimy
 walls of the well.
 
->
+> Dungeon                                          Score: 20       Moves: 211
 
 Shut.
 
->
+> Dungeon                                          Score: 21       Moves: 212
 
 You wave the smelling salts under Nicholas's nose. He stirs, sneezes and looks
 at you blearily. "How --?" he says, bewildered. "Lafond, did he --?" He looks at
@@ -1518,10 +1518,8 @@ Your ravisher will not go unpunished." He squares his shoulders. "For my
 brother, his wife, and your honor, I will kill Jean Lafond."
    He tugs at his chains with a wry smile. "But I must get free first. Have you
 the key?"
-   Sounds of scraping hook against stone and curses echo out of the well,
-muffled by the trapdoor.
 
->
+> Dungeon                                          Score: 22       Moves: 213
 
 You twist the pin of the jewelled brooch in the locks, quickly freeing Nicholas.
    Nick kisses you briefly, a butterfly touching your lips, then seizes his
@@ -1530,12 +1528,12 @@ him as he races past.
    Sounds of scraping hook against stone and curses echo out of the well,
 muffled by the trapdoor.
 
->
+> Anteroom                                         Score: 22       Moves: 214
 
 Anteroom
    The pool is roily with the writhing bodies of Cookie and the crocodile.
 
->
+> Bottom of Stairwell                              Score: 22       Moves: 215
 
 "I ain't goin' to fight this beast if you're headin' back upstairs." Cookie
 follows you.
@@ -1543,12 +1541,12 @@ follows you.
 Bottom of Stairwell
    Cookie pegs after you.
 
->
+> Stairwell                                        Score: 22       Moves: 216
 
 Stairwell
    Cookie pegs after you.
 
->
+> Library                                          Score: 22       Moves: 217
 
 You move beyond the portrait into the library.
 
@@ -1560,28 +1558,28 @@ no chance he could win as beaten as he is!" Cookie races out towards the
 ballroom.
    You hear metal scrape metal. A woman gasps.
 
->
+> East Hallway                                     Score: 22       Moves: 218
 
 East Hallway
-   Rapiers click and slide. "Bad parry, Captain," Lafond says.
+   "You must ... pay ... for your actions!" Nicholas gasps.
 
->
+> Foyer                                            Score: 22       Moves: 219
 
 Foyer
-   Swords engage and disengage.
+   You hear a duellist leap forward, and swords clash, parrying.
 
->
+> Stair Landing                                    Score: 22       Moves: 220
 
 Stair Landing
-   You hear a piece of furniture being knocked over.
+   Rapiers click and slide. "Bad parry, Captain," Lafond says.
 
->
+> Upstairs Hall                                    Score: 22       Moves: 221
 
 Upstairs Hall
    The butler lies on the floor, prone and snoring loudly.
-   "You must ... pay ... for your actions!" Nicholas gasps.
+   You hear a piece of furniture being knocked over.
 
->
+> Gallery                                          Score: 22       Moves: 222
 
 Gallery
    You are on a wide balcony overlooking the ballroom. A hallway lies to the
@@ -1595,17 +1593,17 @@ rope hang down from the pulley, the excess tied around the railing.
    Nicholas and Lafond circle each other intently, the one breathing hard, the
 other casual, sword tips almost touching. Jamison has lost copious amounts of
 blood and is no match for Lafond, cool and competent.
-Lafond's voice is cold, lazy, "You will die, you know, Jamison."
+Swords engage and disengage.
 
->
+> Gallery                                          Score: 22       Moves: 223
 
 Untied. The chandelier swings slightly, dribs of hot wax spilling to the floor.
    Nicholas and Lafond circle each other intently, the one breathing hard, the
 other casual, sword tips almost touching. Jamison has lost copious amounts of
 blood and is no match for Lafond, cool and competent.
-You hear a duellist leap forward, and swords clash, parrying.
+Lafond's voice is cold, lazy, "You will die, you know, Jamison."
 
->
+> Gallery                                          Score: 22       Moves: 224
 
 Pray describe what you intend to do with the rope.
    Someone calls out, "We've got the Dimsford girl, Governor" -- lying, of
@@ -1622,7 +1620,7 @@ between you.
 
    Nicholas shouts, from far away, "Let me go! Let me deliver Lafond to a
 
-
+ Ballroom                                         Score: 23       Moves: 225
 
 'better' world."
    "A gentleman can't kill an unconscious man!" That is Papa's voice. "And
@@ -1639,7 +1637,7 @@ Ballroom
    You can see a beautiful ball gown, breeches, a shirt, a flower, a garter, a
 powder horn, a large key, a bit of mirror, a silver tray and a flagon here.
 
->
+> Ballroom                                         Score: 23       Moves: 226
 
 beautiful ball gown: Taken.
 breeches: Taken.
@@ -1652,15 +1650,15 @@ bit of mirror: Taken.
 silver tray: Taken.
 flagon: Taken.
 
->
+> Veranda                                          Score: 23       Moves: 227
 
 Veranda
 
->
+> Lawn                                             Score: 23       Moves: 228
 
 Lawn
 
->
+> Beach                                            Score: 23       Moves: 229
 
 Beach
    Cookie, Lucy and your father are moving towards the skiff.
@@ -1668,7 +1666,7 @@ Beach
    You splash into the rising surf and pain needles up your leg. Blood swirls
 out from your shoe in the shallow water, flowing over a small pointed stone.
 
->
+> Beach                                            Score: 23       Moves: 230
 
 Taken.
    A shot rings out over the roar of the surf. Turning, you see that Lafond
@@ -1676,7 +1674,7 @@ stands at the top of the cliff, a pistol in each hand. "Trying to sneak out the
 back, cowards? You will die like your brother, Falcon. Snivelling for mercy." He
 hands one gun to Crulley, standing nearby, and levels the other at Jamison.
 
->
+> Beach                                            Score: 23       Moves: 231
 
 It is a pretty little stone.
    As the gun fires, Cookie throws himself before his captain. He cries out,
@@ -1690,7 +1688,7 @@ have no need of her when you are dead."
 slowly to you. He says nothing, his face hard, but his eyes tell you what you
 want to know. "Answer, my darling. Yes or no?"
 
->
+> Beach                                            Score: 23       Moves: 232
 
 You have no breath to speak. You nod once, never taking your eyes off Nicholas
 Jamison.
@@ -1699,7 +1697,7 @@ Order your dragoons to obey us, then." In answer, Lafond jumps off the cliff
 like a huge brocaded bat to land in front of Captain Jamison. "Die then, fool!"
    The pistol, spinning from Lafond's grip, drops to the sand nearby.
 
->
+> Beach                                            Score: 23       Moves: 233
 
 Taken.
    Lafond immediately takes the advantage, forcing Nicholas in a retreat towards
@@ -1708,7 +1706,7 @@ finally loses his smile.
    Behind the duellists, far away atop the cliff, you notice Crulley madly
 reloading the pistol.
 
->
+> Beach                                            Score: 24       Moves: 234
 
 You pour a lumpy stream of gunpowder mixture into the barrel of the pistol
 tamping it as best you can.
@@ -1722,7 +1720,7 @@ convulses, as in amazement, then sags dead on the sword.
 cheap copy into the surf.
    Far above him, Crulley moves down the stairs.
 
->
+> Beach                                            Score: 24       Moves: 235
 
 Time passes...
    Crulley is levelling the pistol, feet apart, braced by the cliff wall.
@@ -1737,7 +1735,7 @@ eyes, twin seas of blue, devour you with a love deep and true-hearted, and you
 are pulled into his embrace, your mouth on his, lips parted, thirsting, arching
 into his kiss...
 
-
+ Forecastle                                       Score: 25       Moves: 235
 
 Forecastle
    As dawn breaks over the eastern seas, you stand with Nicholas on his ship,
